@@ -142,6 +142,3 @@ Open `http://127.0.0.1:5000`, upload a CSV, and click Analyze. A full run (class
 - Domain knowledge is currently a small, hand-written set of 5 facts per domain — easy to expand by adding more documents to the relevant Chroma collection in `scripts/setup_chroma.py`.
 - The free-tier LLM used (Llama 3.1 70B via NVIDIA NIM) can be slow (30s-2min per call); swapping to a faster/paid provider would reduce total runtime significantly.
 
-## License
-
-MIT
