@@ -1,0 +1,601 @@
+transaction_id,account_id,transaction_date,merchant,category,amount,transaction_type,location
+TXN20000,ACC1004,2025-01-01 00:00,Fuel Station,Cash,4770.99,Credit,Chennai
+TXN20001,ACC1025,2025-01-01 04:00,Grocery Mart,Groceries,2216.49,Debit,Bangalore
+TXN20002,ACC1003,2025-01-01 08:00,Grocery Mart,Shopping,1947.74,Credit,Delhi
+TXN20003,ACC1019,2025-01-01 12:00,Restaurant,Shopping,259.97,Credit,Hyderabad
+TXN20004,ACC1023,2025-01-01 16:00,Fuel Station,Bills,938.45,Credit,Delhi
+TXN20005,ACC1039,2025-01-01 20:00,Electronics Hub,Dining,2917.43,Credit,Chennai
+TXN20006,ACC1028,2025-01-02 00:00,ATM Withdrawal,Bills,2063.5,Debit,Mumbai
+TXN20007,ACC1014,2025-01-02 04:00,Utility Bill,Transfer,4377.0,Debit,Coimbatore
+TXN20008,ACC1023,2025-01-02 08:00,Restaurant,Dining,843.17,Debit,Hyderabad
+TXN20009,ACC1008,2025-01-02 12:00,Online Transfer,Shopping,653.83,Credit,Mumbai
+TXN20010,ACC1025,2025-01-02 16:00,Electronics Hub,Shopping,6387.68,Debit,Chennai
+TXN20011,ACC1026,2025-01-02 20:00,Online Transfer,Shopping,3899.93,Debit,Delhi
+TXN20012,ACC1008,2025-01-03 00:00,Amazon,Groceries,1633.87,Debit,Coimbatore
+TXN20013,ACC1039,2025-01-03 04:00,Restaurant,Electronics,7582.51,Debit,Coimbatore
+TXN20014,ACC1038,2025-01-03 08:00,Electronics Hub,Cash,1680.6,Credit,Delhi
+TXN20015,ACC1004,2025-01-03 12:00,Amazon,Cash,1363.16,Credit,Bangalore
+TXN20016,ACC1007,2025-01-03 16:00,Grocery Mart,Transfer,5071.57,Debit,Bangalore
+TXN20017,ACC1000,2025-01-03 20:00,Restaurant,Groceries,2667.11,Debit,Bangalore
+TXN20018,ACC1011,2025-01-04 00:00,Fuel Station,Shopping,3271.28,Debit,Chennai
+TXN20019,ACC1006,2025-01-04 04:00,Utility Bill,Cash,3731.34,Debit,Delhi
+TXN20020,ACC1019,2025-01-04 08:00,Electronics Hub,Cash,2960.74,Debit,Mumbai
+TXN20021,ACC1005,2025-01-04 12:00,ATM Withdrawal,Transfer,1547.31,Debit,Hyderabad
+TXN20022,ACC1024,2025-01-04 16:00,Amazon,Shopping,1688.62,Debit,Chennai
+TXN20023,ACC1000,2025-01-04 20:00,ATM Withdrawal,Bills,373.38,Debit,Coimbatore
+TXN20024,ACC1034,2025-01-05 00:00,Electronics Hub,Shopping,2575.23,Debit,Delhi
+TXN20025,ACC1009,2025-01-05 04:00,Amazon,Transfer,1372.33,Debit,Coimbatore
+TXN20026,ACC1014,2025-01-05 08:00,Fuel Station,Electronics,4293.72,Credit,Coimbatore
+TXN20027,ACC1038,2025-01-05 12:00,Grocery Mart,Shopping,1273.16,Debit,Coimbatore
+TXN20028,ACC1004,2025-01-05 16:00,Amazon,Bills,5003.47,Debit,Chennai
+TXN20029,ACC1009,2025-01-05 20:00,Grocery Mart,Cash,2349.44,Credit,Chennai
+TXN20030,ACC1023,2025-01-06 00:00,Grocery Mart,Groceries,1807.39,Debit,Bangalore
+TXN20031,ACC1035,2025-01-06 04:00,Electronics Hub,Dining,970.11,Debit,Delhi
+TXN20032,ACC1003,2025-01-06 08:00,Online Transfer,Groceries,3902.67,Debit,Hyderabad
+TXN20033,ACC1008,2025-01-06 12:00,Electronics Hub,Shopping,3692.01,Debit,Mumbai
+TXN20034,ACC1019,2025-01-06 16:00,Online Transfer,Shopping,578.04,Debit,Delhi
+TXN20035,ACC1001,2025-01-06 20:00,Restaurant,Electronics,1690.39,Debit,Delhi
+TXN20036,ACC1000,2025-01-07 00:00,Grocery Mart,Groceries,3943.64,Debit,Bangalore
+TXN20037,ACC1016,2025-01-07 04:00,Grocery Mart,Cash,401.93,Debit,Hyderabad
+TXN20038,ACC1031,2025-01-07 08:00,ATM Withdrawal,Electronics,845.11,Credit,Delhi
+TXN20039,ACC1029,2025-01-07 12:00,Utility Bill,Groceries,3788.88,Credit,Coimbatore
+TXN20040,ACC1028,2025-01-07 16:00,Fuel Station,Dining,2661.77,Credit,Mumbai
+TXN20041,ACC1007,2025-01-07 20:00,Grocery Mart,Groceries,2538.94,Debit,Chennai
+TXN20042,ACC1023,2025-01-08 00:00,Electronics Hub,Groceries,3027.55,Credit,Hyderabad
+TXN20043,ACC1010,2025-01-08 04:00,Utility Bill,Dining,4139.86,Credit,Hyderabad
+TXN20044,ACC1035,2025-01-08 08:00,Grocery Mart,Groceries,2034.65,Debit,Bangalore
+TXN20045,ACC1000,2025-01-08 12:00,Grocery Mart,Bills,5546.81,Debit,Coimbatore
+TXN20046,ACC1007,2025-01-08 16:00,Grocery Mart,Transfer,1612.59,Debit,Delhi
+TXN20047,ACC1023,2025-01-08 20:00,Fuel Station,Electronics,348.76,Debit,Bangalore
+TXN20048,ACC1028,2025-01-09 00:00,Online Transfer,Electronics,3328.35,Credit,Delhi
+TXN20049,ACC1032,2025-01-09 04:00,Grocery Mart,Fuel,1151.99,Debit,Hyderabad
+TXN20050,ACC1021,2025-01-09 08:00,ATM Withdrawal,Bills,857.78,Credit,Hyderabad
+TXN20051,ACC1036,2025-01-09 12:00,Unknown Merchant,Cash,22086.316339619905,Credit,Hyderabad
+TXN20052,ACC1035,2025-01-09 16:00,Electronics Hub,Groceries,1643.99,Debit,Chennai
+TXN20053,ACC1033,2025-01-09 20:00,Utility Bill,Cash,2433.27,Debit,Hyderabad
+TXN20054,ACC1003,2025-01-10 00:00,Online Transfer,Electronics,4920.95,Debit,Bangalore
+TXN20055,ACC1027,2025-01-10 04:00,Fuel Station,Bills,466.75,Credit,Bangalore
+TXN20056,ACC1033,2025-01-10 08:00,Unknown Merchant,Groceries,86968.98773254431,Debit,Coimbatore
+TXN20057,ACC1019,2025-01-10 12:00,Utility Bill,Shopping,4560.65,Credit,Coimbatore
+TXN20058,ACC1027,2025-01-10 16:00,Amazon,Bills,2414.3,Debit,Hyderabad
+TXN20059,ACC1004,2025-01-10 20:00,Grocery Mart,Bills,4373.0,Debit,Bangalore
+TXN20060,ACC1019,2025-01-11 00:00,Utility Bill,Cash,2154.66,Debit,Bangalore
+TXN20061,ACC1033,2025-01-11 04:00,Amazon,Electronics,6238.57,Debit,Delhi
+TXN20062,ACC1030,2025-01-11 08:00,Amazon,Shopping,3948.85,Debit,Hyderabad
+TXN20063,ACC1037,2025-01-11 12:00,ATM Withdrawal,Dining,4831.62,Debit,Hyderabad
+TXN20064,ACC1009,2025-01-11 16:00,Grocery Mart,Bills,2792.36,Debit,Hyderabad
+TXN20065,ACC1029,2025-01-11 20:00,Online Transfer,Groceries,1903.65,Credit,Chennai
+TXN20066,ACC1017,2025-01-12 00:00,Restaurant,Dining,4398.99,Debit,Delhi
+TXN20067,ACC1031,2025-01-12 04:00,Restaurant,Shopping,2830.05,Debit,Hyderabad
+TXN20068,ACC1002,2025-01-12 08:00,Restaurant,Shopping,2336.26,Credit,Chennai
+TXN20069,ACC1019,2025-01-12 12:00,Fuel Station,Cash,9525.58,Debit,Chennai
+TXN20070,ACC1018,2025-01-12 16:00,Utility Bill,Bills,751.11,Debit,Hyderabad
+TXN20071,ACC1021,2025-01-12 20:00,Restaurant,Groceries,2155.71,Credit,Bangalore
+TXN20072,ACC1003,2025-01-13 00:00,Utility Bill,Bills,1713.78,Debit,Delhi
+TXN20073,ACC1011,2025-01-13 04:00,Grocery Mart,Groceries,3974.03,Debit,Mumbai
+TXN20074,ACC1016,2025-01-13 08:00,Online Transfer,Fuel,1302.43,Credit,Chennai
+TXN20075,ACC1012,2025-01-13 12:00,Electronics Hub,Groceries,291.32,Debit,Mumbai
+TXN20076,ACC1029,2025-01-13 16:00,Amazon,Electronics,6736.4,Credit,Chennai
+TXN20077,ACC1009,2025-01-13 20:00,Amazon,Electronics,863.58,Credit,Chennai
+TXN20078,ACC1012,2025-01-14 00:00,Grocery Mart,Shopping,1474.64,Credit,Bangalore
+TXN20079,ACC1003,2025-01-14 04:00,Utility Bill,Electronics,4685.64,Debit,Coimbatore
+TXN20080,ACC1014,2025-01-14 08:00,Fuel Station,Fuel,1877.25,Debit,Coimbatore
+TXN20081,ACC1020,2025-01-14 12:00,Amazon,Dining,3710.54,Credit,Delhi
+TXN20082,ACC1015,2025-01-14 16:00,Grocery Mart,Cash,3305.78,Debit,Coimbatore
+TXN20083,ACC1035,2025-01-14 20:00,Amazon,Dining,2509.37,Debit,Chennai
+TXN20084,ACC1004,2025-01-15 00:00,Online Transfer,Electronics,4650.87,Debit,Bangalore
+TXN20085,ACC1008,2025-01-15 04:00,Electronics Hub,Shopping,2751.13,Debit,Hyderabad
+TXN20086,ACC1026,2025-01-15 08:00,Electronics Hub,Groceries,5794.02,Debit,Chennai
+TXN20087,ACC1023,2025-01-15 12:00,Fuel Station,Fuel,2701.5,Debit,Hyderabad
+TXN20088,ACC1013,2025-01-15 16:00,Electronics Hub,Cash,3237.83,Debit,Bangalore
+TXN20089,ACC1039,2025-01-15 20:00,Fuel Station,Transfer,2456.09,Debit,Coimbatore
+TXN20090,ACC1003,2025-01-16 00:00,Restaurant,Transfer,926.27,Debit,Chennai
+TXN20091,ACC1029,2025-01-16 04:00,Fuel Station,Cash,590.83,Debit,Hyderabad
+TXN20092,ACC1012,2025-01-16 08:00,Grocery Mart,Groceries,2727.11,Debit,Chennai
+TXN20093,ACC1012,2025-01-16 12:00,Amazon,Groceries,1010.42,Debit,Chennai
+TXN20094,ACC1015,2025-01-16 16:00,Grocery Mart,Groceries,408.42,Debit,Delhi
+TXN20095,ACC1029,2025-01-16 20:00,Restaurant,Groceries,4829.71,Debit,Mumbai
+TXN20096,ACC1008,2025-01-17 00:00,ATM Withdrawal,Fuel,4482.0,Debit,Delhi
+TXN20097,ACC1038,2025-01-17 04:00,ATM Withdrawal,Groceries,12040.17,Debit,Hyderabad
+TXN20098,ACC1006,2025-01-17 08:00,Amazon,Bills,1639.52,Debit,Coimbatore
+TXN20099,ACC1021,2025-01-17 12:00,Utility Bill,Shopping,2433.44,Debit,Coimbatore
+TXN20100,ACC1027,2025-01-17 16:00,Electronics Hub,Dining,2626.93,Debit,Bangalore
+TXN20101,ACC1007,2025-01-17 20:00,Restaurant,Shopping,4825.72,Debit,Chennai
+TXN20102,ACC1017,2025-01-18 00:00,Fuel Station,Shopping,3510.3,Credit,Bangalore
+TXN20103,ACC1005,2025-01-18 04:00,Online Transfer,Cash,2134.38,Credit,Chennai
+TXN20104,ACC1036,2025-01-18 08:00,Fuel Station,Bills,2841.41,Debit,Coimbatore
+TXN20105,ACC1029,2025-01-18 12:00,Fuel Station,Dining,1749.96,Debit,Coimbatore
+TXN20106,ACC1026,2025-01-18 16:00,Restaurant,Shopping,4016.59,Credit,Coimbatore
+TXN20107,ACC1000,2025-01-18 20:00,Electronics Hub,Dining,1501.65,Credit,Hyderabad
+TXN20108,ACC1022,2025-01-19 00:00,Fuel Station,Shopping,3762.18,Credit,Chennai
+TXN20109,ACC1034,2025-01-19 04:00,Online Transfer,Groceries,782.91,Debit,Hyderabad
+TXN20110,ACC1012,2025-01-19 08:00,ATM Withdrawal,Cash,3337.32,Debit,Hyderabad
+TXN20111,ACC1006,2025-01-19 12:00,Restaurant,Groceries,1723.67,Credit,Mumbai
+TXN20112,ACC1034,2025-01-19 16:00,Electronics Hub,Transfer,438.08,Credit,Coimbatore
+TXN20113,ACC1029,2025-01-19 20:00,Grocery Mart,Dining,2658.02,Debit,Chennai
+TXN20114,ACC1038,2025-01-20 00:00,Amazon,Cash,1046.66,Debit,Chennai
+TXN20115,ACC1017,2025-01-20 04:00,Amazon,Dining,3128.14,Debit,Hyderabad
+TXN20116,ACC1005,2025-01-20 08:00,Amazon,Transfer,6005.57,Debit,Hyderabad
+TXN20117,ACC1015,2025-01-20 12:00,Unknown Merchant,Cash,31278.804035803674,Debit,Mumbai
+TXN20118,ACC1012,2025-01-20 16:00,Amazon,Bills,1394.0,Debit,Mumbai
+TXN20119,ACC1028,2025-01-20 20:00,Utility Bill,Bills,1360.98,Debit,Coimbatore
+TXN20120,ACC1037,2025-01-21 00:00,ATM Withdrawal,Groceries,4220.27,Debit,Coimbatore
+TXN20121,ACC1009,2025-01-21 04:00,Fuel Station,Cash,2230.68,Debit,Delhi
+TXN20122,ACC1023,2025-01-21 08:00,Online Transfer,Dining,4692.66,Debit,Chennai
+TXN20123,ACC1021,2025-01-21 12:00,Utility Bill,Transfer,2346.46,Debit,Delhi
+TXN20124,ACC1004,2025-01-21 16:00,Electronics Hub,Groceries,1217.7,Debit,Mumbai
+TXN20125,ACC1027,2025-01-21 20:00,Unknown Merchant,Bills,45790.37075591729,Debit,Chennai
+TXN20126,ACC1012,2025-01-22 00:00,Grocery Mart,Cash,1986.18,Debit,Hyderabad
+TXN20127,ACC1011,2025-01-22 04:00,Amazon,Shopping,2139.6,Debit,Mumbai
+TXN20128,ACC1006,2025-01-22 08:00,Fuel Station,Cash,1493.68,Debit,Chennai
+TXN20129,ACC1033,2025-01-22 12:00,Utility Bill,Shopping,2797.05,Debit,Delhi
+TXN20130,ACC1021,2025-01-22 16:00,Grocery Mart,Transfer,4127.04,Debit,Chennai
+TXN20131,ACC1021,2025-01-22 20:00,Amazon,Shopping,3417.46,Credit,Delhi
+TXN20132,ACC1030,2025-01-23 00:00,Grocery Mart,Shopping,7846.23,Debit,Mumbai
+TXN20133,ACC1028,2025-01-23 04:00,Utility Bill,Shopping,845.55,Debit,Mumbai
+TXN20134,ACC1012,2025-01-23 08:00,Fuel Station,Dining,271.73,Debit,Hyderabad
+TXN20135,ACC1012,2025-01-23 12:00,Fuel Station,Bills,4349.66,Debit,Mumbai
+TXN20136,ACC1036,2025-01-23 16:00,Online Transfer,Electronics,6753.58,Debit,Coimbatore
+TXN20137,ACC1007,2025-01-23 20:00,Utility Bill,Dining,1183.48,Debit,Hyderabad
+TXN20138,ACC1021,2025-01-24 00:00,Grocery Mart,Dining,1085.85,Credit,Hyderabad
+TXN20139,ACC1038,2025-01-24 04:00,Online Transfer,Bills,3054.62,Debit,Chennai
+TXN20140,ACC1015,2025-01-24 08:00,Amazon,Cash,508.08,Debit,Mumbai
+TXN20141,ACC1018,2025-01-24 12:00,Restaurant,Bills,2763.01,Credit,Chennai
+TXN20142,ACC1028,2025-01-24 16:00,ATM Withdrawal,Dining,4938.92,Debit,Delhi
+TXN20143,ACC1016,2025-01-24 20:00,Restaurant,Bills,4350.6,Credit,Coimbatore
+TXN20144,ACC1005,2025-01-25 00:00,Restaurant,Transfer,7622.14,Debit,Bangalore
+TXN20145,ACC1035,2025-01-25 04:00,Utility Bill,Bills,2606.61,Debit,Mumbai
+TXN20146,ACC1013,2025-01-25 08:00,Amazon,Transfer,5011.27,Debit,Coimbatore
+TXN20147,ACC1032,2025-01-25 12:00,ATM Withdrawal,Cash,1943.83,Debit,Hyderabad
+TXN20148,ACC1023,2025-01-25 16:00,Restaurant,Dining,451.67,Debit,Coimbatore
+TXN20149,ACC1031,2025-01-25 20:00,Online Transfer,Groceries,4612.47,Debit,Chennai
+TXN20150,ACC1033,2025-01-26 00:00,ATM Withdrawal,Bills,1760.28,Debit,Hyderabad
+TXN20151,ACC1027,2025-01-26 04:00,Grocery Mart,Electronics,1456.35,Debit,Delhi
+TXN20152,ACC1014,2025-01-26 08:00,Fuel Station,Shopping,2519.97,Debit,Coimbatore
+TXN20153,ACC1032,2025-01-26 12:00,Amazon,Bills,4491.7,Debit,Mumbai
+TXN20154,ACC1034,2025-01-26 16:00,Online Transfer,Shopping,1575.68,Debit,Mumbai
+TXN20155,ACC1031,2025-01-26 20:00,Fuel Station,Fuel,1408.77,Credit,Mumbai
+TXN20156,ACC1038,2025-01-27 00:00,Online Transfer,Fuel,2023.85,Debit,Bangalore
+TXN20157,ACC1018,2025-01-27 04:00,ATM Withdrawal,Cash,316.0,Debit,Hyderabad
+TXN20158,ACC1009,2025-01-27 08:00,Electronics Hub,Transfer,1062.66,Debit,Delhi
+TXN20159,ACC1009,2025-01-27 12:00,Unknown Merchant,Cash,67651.95238888357,Debit,Coimbatore
+TXN20160,ACC1013,2025-01-27 16:00,Electronics Hub,Electronics,2345.54,Credit,Hyderabad
+TXN20161,ACC1021,2025-01-27 20:00,Grocery Mart,Transfer,2435.09,Debit,Delhi
+TXN20162,ACC1001,2025-01-28 00:00,ATM Withdrawal,Transfer,1102.58,Debit,Mumbai
+TXN20163,ACC1031,2025-01-28 04:00,Utility Bill,Cash,2827.56,Debit,Hyderabad
+TXN20164,ACC1014,2025-01-28 08:00,Amazon,Groceries,3251.95,Debit,Mumbai
+TXN20165,ACC1016,2025-01-28 12:00,Fuel Station,Transfer,891.3,Debit,Delhi
+TXN20166,ACC1025,2025-01-28 16:00,Restaurant,Groceries,1934.2,Credit,Delhi
+TXN20167,ACC1033,2025-01-28 20:00,Amazon,Groceries,753.04,Credit,Delhi
+TXN20168,ACC1021,2025-01-29 00:00,Utility Bill,Cash,3622.16,Debit,Mumbai
+TXN20169,ACC1019,2025-01-29 04:00,Grocery Mart,Fuel,4808.04,Debit,Hyderabad
+TXN20170,ACC1018,2025-01-29 08:00,Electronics Hub,Electronics,4032.29,Credit,Hyderabad
+TXN20171,ACC1000,2025-01-29 12:00,Restaurant,Transfer,7017.92,Debit,Hyderabad
+TXN20172,ACC1013,2025-01-29 16:00,Fuel Station,Bills,4591.22,Credit,Mumbai
+TXN20173,ACC1010,2025-01-29 20:00,Amazon,Dining,6033.02,Debit,Coimbatore
+TXN20174,ACC1027,2025-01-30 00:00,Grocery Mart,Bills,2975.65,Debit,Delhi
+TXN20175,ACC1028,2025-01-30 04:00,Restaurant,Electronics,1720.93,Credit,Mumbai
+TXN20176,ACC1008,2025-01-30 08:00,Fuel Station,Electronics,3440.89,Debit,Mumbai
+TXN20177,ACC1033,2025-01-30 12:00,Online Transfer,Shopping,1374.78,Debit,Chennai
+TXN20178,ACC1036,2025-01-30 16:00,Fuel Station,Bills,2002.41,Debit,Chennai
+TXN20179,ACC1025,2025-01-30 20:00,Amazon,Electronics,3621.53,Credit,Bangalore
+TXN20180,ACC1028,2025-01-31 00:00,Amazon,Shopping,5182.78,Credit,Bangalore
+TXN20181,ACC1007,2025-01-31 04:00,Fuel Station,Dining,2365.76,Debit,Chennai
+TXN20182,ACC1015,2025-01-31 08:00,Online Transfer,Shopping,5699.1,Debit,Mumbai
+TXN20183,ACC1000,2025-01-31 12:00,Online Transfer,Cash,1118.2,Credit,Delhi
+TXN20184,ACC1018,2025-01-31 16:00,Online Transfer,Transfer,3336.63,Debit,Bangalore
+TXN20185,ACC1039,2025-01-31 20:00,Grocery Mart,Shopping,2256.84,Debit,Delhi
+TXN20186,ACC1000,2025-02-01 00:00,Online Transfer,Cash,8656.45,Debit,Hyderabad
+TXN20187,ACC1009,2025-02-01 04:00,ATM Withdrawal,Transfer,1211.5,Debit,Hyderabad
+TXN20188,ACC1034,2025-02-01 08:00,Grocery Mart,Shopping,2658.51,Debit,Mumbai
+TXN20189,ACC1005,2025-02-01 12:00,Utility Bill,Shopping,979.55,Debit,Chennai
+TXN20190,ACC1021,2025-02-01 16:00,Grocery Mart,Cash,3514.42,Debit,Coimbatore
+TXN20191,ACC1016,2025-02-01 20:00,Restaurant,Electronics,1660.62,Debit,Bangalore
+TXN20192,ACC1011,2025-02-02 00:00,Utility Bill,Fuel,328.26,Debit,Mumbai
+TXN20193,ACC1032,2025-02-02 04:00,Amazon,Fuel,2530.25,Debit,Coimbatore
+TXN20194,ACC1036,2025-02-02 08:00,Grocery Mart,Groceries,4263.29,Credit,Delhi
+TXN20195,ACC1005,2025-02-02 12:00,Online Transfer,Dining,719.75,Debit,Chennai
+TXN20196,ACC1028,2025-02-02 16:00,Online Transfer,Bills,5735.8,Debit,Coimbatore
+TXN20197,ACC1029,2025-02-02 20:00,Fuel Station,Groceries,2128.81,Debit,Coimbatore
+TXN20198,ACC1031,2025-02-03 00:00,Grocery Mart,Fuel,6392.59,Debit,Coimbatore
+TXN20199,ACC1007,2025-02-03 04:00,Electronics Hub,Groceries,726.62,Debit,Chennai
+TXN20200,ACC1028,2025-02-03 08:00,Unknown Merchant,Dining,3435.6054976873543,Debit,Hyderabad
+TXN20201,ACC1014,2025-02-03 12:00,ATM Withdrawal,Fuel,2787.19,Debit,Hyderabad
+TXN20202,ACC1013,2025-02-03 16:00,Online Transfer,Bills,768.9,Debit,Delhi
+TXN20203,ACC1019,2025-02-03 20:00,Fuel Station,Shopping,3234.38,Credit,Chennai
+TXN20204,ACC1013,2025-02-04 00:00,Amazon,Cash,2938.81,Credit,Delhi
+TXN20205,ACC1024,2025-02-04 04:00,Utility Bill,Fuel,2929.31,Debit,Mumbai
+TXN20206,ACC1003,2025-02-04 08:00,Grocery Mart,Groceries,2422.61,Debit,Coimbatore
+TXN20207,ACC1007,2025-02-04 12:00,Utility Bill,Shopping,1077.49,Debit,Hyderabad
+TXN20208,ACC1032,2025-02-04 16:00,Amazon,Fuel,2439.61,Debit,Delhi
+TXN20209,ACC1033,2025-02-04 20:00,Online Transfer,Shopping,759.61,Debit,Bangalore
+TXN20210,ACC1011,2025-02-05 00:00,Online Transfer,Cash,627.56,Debit,Delhi
+TXN20211,ACC1027,2025-02-05 04:00,Amazon,Bills,4070.49,Credit,Bangalore
+TXN20212,ACC1004,2025-02-05 08:00,Online Transfer,Shopping,6048.41,Debit,Delhi
+TXN20213,ACC1038,2025-02-05 12:00,Amazon,Groceries,2615.86,Debit,Coimbatore
+TXN20214,ACC1031,2025-02-05 16:00,Electronics Hub,Bills,930.34,Debit,Bangalore
+TXN20215,ACC1030,2025-02-05 20:00,Utility Bill,Bills,1843.13,Debit,Coimbatore
+TXN20216,ACC1014,2025-02-06 00:00,Electronics Hub,Dining,6554.34,Credit,Delhi
+TXN20217,ACC1012,2025-02-06 04:00,Electronics Hub,Fuel,836.54,Credit,Chennai
+TXN20218,ACC1016,2025-02-06 08:00,Fuel Station,Fuel,2479.28,Debit,Chennai
+TXN20219,ACC1026,2025-02-06 12:00,Amazon,Groceries,5036.64,Debit,Chennai
+TXN20220,ACC1032,2025-02-06 16:00,Restaurant,Transfer,527.66,Credit,Coimbatore
+TXN20221,ACC1033,2025-02-06 20:00,Amazon,Transfer,3508.39,Debit,Coimbatore
+TXN20222,ACC1008,2025-02-07 00:00,Electronics Hub,Electronics,3216.83,Debit,Coimbatore
+TXN20223,ACC1030,2025-02-07 04:00,Amazon,Bills,2830.74,Debit,Chennai
+TXN20224,ACC1033,2025-02-07 08:00,Utility Bill,Fuel,754.06,Debit,Hyderabad
+TXN20225,ACC1015,2025-02-07 12:00,Fuel Station,Groceries,4939.84,Debit,Hyderabad
+TXN20226,ACC1022,2025-02-07 16:00,Utility Bill,Cash,4631.67,Debit,Coimbatore
+TXN20227,ACC1034,2025-02-07 20:00,Fuel Station,Electronics,2540.03,Debit,Bangalore
+TXN20228,ACC1012,2025-02-08 00:00,Amazon,Cash,2348.29,Debit,Bangalore
+TXN20229,ACC1004,2025-02-08 04:00,Grocery Mart,Cash,3690.2,Debit,Coimbatore
+TXN20230,ACC1020,2025-02-08 08:00,ATM Withdrawal,Transfer,440.34,Credit,Coimbatore
+TXN20231,ACC1018,2025-02-08 12:00,ATM Withdrawal,Shopping,2381.09,Debit,Chennai
+TXN20232,ACC1021,2025-02-08 16:00,Utility Bill,Transfer,4949.79,Debit,Mumbai
+TXN20233,ACC1022,2025-02-08 20:00,Restaurant,Cash,4093.54,Debit,Coimbatore
+TXN20234,ACC1018,2025-02-09 00:00,Restaurant,Electronics,2464.06,Debit,Coimbatore
+TXN20235,ACC1005,2025-02-09 04:00,Grocery Mart,Fuel,3911.81,Credit,Chennai
+TXN20236,ACC1039,2025-02-09 08:00,Utility Bill,Cash,4545.53,Debit,Mumbai
+TXN20237,ACC1005,2025-02-09 12:00,Online Transfer,Shopping,583.04,Credit,Coimbatore
+TXN20238,ACC1005,2025-02-09 16:00,Restaurant,Electronics,4589.2,Debit,Bangalore
+TXN20239,ACC1006,2025-02-09 20:00,Grocery Mart,Bills,2010.33,Debit,Delhi
+TXN20240,ACC1031,2025-02-10 00:00,Online Transfer,Bills,2726.56,Debit,Chennai
+TXN20241,ACC1029,2025-02-10 04:00,Utility Bill,Cash,255.04,Debit,Coimbatore
+TXN20242,ACC1016,2025-02-10 08:00,Fuel Station,Groceries,2114.9,Credit,Coimbatore
+TXN20243,ACC1004,2025-02-10 12:00,Online Transfer,Electronics,3210.58,Debit,Delhi
+TXN20244,ACC1038,2025-02-10 16:00,Online Transfer,Groceries,2232.62,Debit,Coimbatore
+TXN20245,ACC1013,2025-02-10 20:00,Utility Bill,Bills,7315.82,Debit,Hyderabad
+TXN20246,ACC1002,2025-02-11 00:00,Amazon,Shopping,1412.1,Credit,Bangalore
+TXN20247,ACC1012,2025-02-11 04:00,Grocery Mart,Bills,5684.27,Debit,Bangalore
+TXN20248,ACC1024,2025-02-11 08:00,Online Transfer,Transfer,2934.38,Debit,Coimbatore
+TXN20249,ACC1027,2025-02-11 12:00,ATM Withdrawal,Bills,1112.46,Debit,Chennai
+TXN20250,ACC1016,2025-02-11 16:00,Online Transfer,Cash,3852.2,Debit,Bangalore
+TXN20251,ACC1005,2025-02-11 20:00,Fuel Station,Cash,4623.83,Debit,Bangalore
+TXN20252,ACC1029,2025-02-12 00:00,Electronics Hub,Transfer,2628.44,Credit,Hyderabad
+TXN20253,ACC1009,2025-02-12 04:00,Amazon,Shopping,1391.05,Debit,Chennai
+TXN20254,ACC1039,2025-02-12 08:00,Amazon,Electronics,1060.5,Credit,Mumbai
+TXN20255,ACC1014,2025-02-12 12:00,ATM Withdrawal,Cash,5238.65,Debit,Coimbatore
+TXN20256,ACC1006,2025-02-12 16:00,ATM Withdrawal,Transfer,1114.9,Debit,Bangalore
+TXN20257,ACC1002,2025-02-12 20:00,Utility Bill,Dining,3691.28,Debit,Delhi
+TXN20258,ACC1037,2025-02-13 00:00,Grocery Mart,Fuel,3178.89,Credit,Delhi
+TXN20259,ACC1022,2025-02-13 04:00,Grocery Mart,Dining,1994.6,Debit,Hyderabad
+TXN20260,ACC1009,2025-02-13 08:00,ATM Withdrawal,Fuel,466.15,Debit,Chennai
+TXN20261,ACC1035,2025-02-13 12:00,Amazon,Shopping,3591.83,Credit,Bangalore
+TXN20262,ACC1015,2025-02-13 16:00,Amazon,Fuel,3032.98,Debit,Bangalore
+TXN20263,ACC1020,2025-02-13 20:00,Grocery Mart,Cash,268.47,Debit,Chennai
+TXN20264,ACC1032,2025-02-14 00:00,Grocery Mart,Transfer,1696.68,Debit,Mumbai
+TXN20265,ACC1035,2025-02-14 04:00,Restaurant,Transfer,4341.01,Debit,Bangalore
+TXN20266,ACC1021,2025-02-14 08:00,Amazon,Bills,1866.84,Credit,Hyderabad
+TXN20267,ACC1006,2025-02-14 12:00,Online Transfer,Cash,7043.23,Debit,Bangalore
+TXN20268,ACC1020,2025-02-14 16:00,Utility Bill,Transfer,3596.29,Debit,Mumbai
+TXN20269,ACC1000,2025-02-14 20:00,Fuel Station,Shopping,4096.26,Debit,Coimbatore
+TXN20270,ACC1020,2025-02-15 00:00,Fuel Station,Dining,1381.26,Debit,Bangalore
+TXN20271,ACC1033,2025-02-15 04:00,Grocery Mart,Dining,2712.57,Credit,Hyderabad
+TXN20272,ACC1021,2025-02-15 08:00,Electronics Hub,Shopping,4367.04,Debit,Coimbatore
+TXN20273,ACC1002,2025-02-15 12:00,Fuel Station,Fuel,3246.63,Debit,Bangalore
+TXN20274,ACC1011,2025-02-15 16:00,Electronics Hub,Groceries,1049.64,Credit,Coimbatore
+TXN20275,ACC1011,2025-02-15 20:00,ATM Withdrawal,Bills,3286.29,Debit,Hyderabad
+TXN20276,ACC1036,2025-02-16 00:00,ATM Withdrawal,Fuel,4122.44,Credit,Bangalore
+TXN20277,ACC1008,2025-02-16 04:00,Fuel Station,Cash,1770.76,Debit,Bangalore
+TXN20278,ACC1007,2025-02-16 08:00,Amazon,Electronics,2445.38,Debit,Mumbai
+TXN20279,ACC1007,2025-02-16 12:00,Amazon,Shopping,6594.06,Debit,Coimbatore
+TXN20280,ACC1021,2025-02-16 16:00,Utility Bill,Cash,1982.58,Debit,Bangalore
+TXN20281,ACC1019,2025-02-16 20:00,Online Transfer,Groceries,4770.67,Debit,Mumbai
+TXN20282,ACC1039,2025-02-17 00:00,Electronics Hub,Shopping,3299.72,Debit,Delhi
+TXN20283,ACC1022,2025-02-17 04:00,Utility Bill,Dining,611.83,Debit,Mumbai
+TXN20284,ACC1035,2025-02-17 08:00,Online Transfer,Dining,4607.63,Debit,Hyderabad
+TXN20285,ACC1017,2025-02-17 12:00,Amazon,Transfer,1299.85,Debit,Delhi
+TXN20286,ACC1033,2025-02-17 16:00,ATM Withdrawal,Transfer,2826.95,Credit,Hyderabad
+TXN20287,ACC1008,2025-02-17 20:00,Online Transfer,Shopping,680.55,Debit,Delhi
+TXN20288,ACC1015,2025-02-18 00:00,Electronics Hub,Dining,885.11,Debit,Delhi
+TXN20289,ACC1010,2025-02-18 04:00,Grocery Mart,Bills,2677.55,Credit,Hyderabad
+TXN20290,ACC1018,2025-02-18 08:00,Utility Bill,Shopping,1556.11,Debit,Delhi
+TXN20291,ACC1027,2025-02-18 12:00,Fuel Station,Cash,2445.94,Credit,Delhi
+TXN20292,ACC1017,2025-02-18 16:00,Online Transfer,Fuel,634.54,Debit,Coimbatore
+TXN20293,ACC1026,2025-02-18 20:00,Electronics Hub,Electronics,3467.41,Debit,Mumbai
+TXN20294,ACC1039,2025-02-19 00:00,Fuel Station,Groceries,995.75,Credit,Bangalore
+TXN20295,ACC1000,2025-02-19 04:00,Fuel Station,Fuel,1745.48,Debit,Hyderabad
+TXN20296,ACC1008,2025-02-19 08:00,Fuel Station,Dining,4475.44,Debit,Mumbai
+TXN20297,ACC1013,2025-02-19 12:00,Grocery Mart,Transfer,6588.47,Debit,Mumbai
+TXN20298,ACC1024,2025-02-19 16:00,Utility Bill,Electronics,3799.35,Debit,Bangalore
+TXN20299,ACC1012,2025-02-19 20:00,Fuel Station,Transfer,941.25,Debit,Coimbatore
+TXN20300,ACC1034,2025-02-20 00:00,Utility Bill,Fuel,3725.05,Debit,Coimbatore
+TXN20301,ACC1003,2025-02-20 04:00,Grocery Mart,Shopping,1080.23,Debit,Mumbai
+TXN20302,ACC1032,2025-02-20 08:00,Fuel Station,Transfer,5321.74,Debit,Coimbatore
+TXN20303,ACC1026,2025-02-20 12:00,ATM Withdrawal,Groceries,775.43,Credit,Bangalore
+TXN20304,ACC1017,2025-02-20 16:00,Utility Bill,Shopping,1818.87,Debit,Coimbatore
+TXN20305,ACC1011,2025-02-20 20:00,Utility Bill,Cash,3859.04,Debit,Delhi
+TXN20306,ACC1001,2025-02-21 00:00,Online Transfer,Bills,1113.87,Debit,Chennai
+TXN20307,ACC1037,2025-02-21 04:00,Online Transfer,Shopping,2797.52,Debit,Coimbatore
+TXN20308,ACC1037,2025-02-21 08:00,ATM Withdrawal,Fuel,3750.77,Debit,Mumbai
+TXN20309,ACC1009,2025-02-21 12:00,Utility Bill,Electronics,280.43,Credit,Hyderabad
+TXN20310,ACC1027,2025-02-21 16:00,Fuel Station,Groceries,5517.77,Debit,Chennai
+TXN20311,ACC1019,2025-02-21 20:00,ATM Withdrawal,Bills,921.0,Credit,Delhi
+TXN20312,ACC1020,2025-02-22 00:00,Amazon,Transfer,8557.84,Debit,Coimbatore
+TXN20313,ACC1002,2025-02-22 04:00,Restaurant,Fuel,2047.73,Debit,Coimbatore
+TXN20314,ACC1008,2025-02-22 08:00,Amazon,Bills,1846.78,Debit,Coimbatore
+TXN20315,ACC1020,2025-02-22 12:00,Amazon,Shopping,5082.46,Debit,Mumbai
+TXN20316,ACC1010,2025-02-22 16:00,Amazon,Groceries,860.2,Debit,Hyderabad
+TXN20317,ACC1032,2025-02-22 20:00,Grocery Mart,Cash,2696.13,Debit,Mumbai
+TXN20318,ACC1002,2025-02-23 00:00,Online Transfer,Bills,6874.35,Debit,Delhi
+TXN20319,ACC1022,2025-02-23 04:00,Grocery Mart,Dining,1929.99,Debit,Delhi
+TXN20320,ACC1003,2025-02-23 08:00,Fuel Station,Cash,1561.32,Debit,Chennai
+TXN20321,ACC1028,2025-02-23 12:00,Amazon,Groceries,1901.88,Debit,Chennai
+TXN20322,ACC1015,2025-02-23 16:00,Utility Bill,Transfer,986.54,Debit,Delhi
+TXN20323,ACC1038,2025-02-23 20:00,Grocery Mart,Cash,3698.68,Debit,Bangalore
+TXN20324,ACC1009,2025-02-24 00:00,Electronics Hub,Electronics,359.45,Debit,Chennai
+TXN20325,ACC1036,2025-02-24 04:00,Online Transfer,Shopping,821.36,Credit,Hyderabad
+TXN20326,ACC1012,2025-02-24 08:00,Fuel Station,Fuel,4731.42,Credit,Mumbai
+TXN20327,ACC1034,2025-02-24 12:00,Grocery Mart,Fuel,2032.64,Credit,Chennai
+TXN20328,ACC1036,2025-02-24 16:00,Fuel Station,Cash,3760.17,Credit,Chennai
+TXN20329,ACC1022,2025-02-24 20:00,Online Transfer,Cash,1491.75,Debit,Coimbatore
+TXN20330,ACC1005,2025-02-25 00:00,Unknown Merchant,Bills,9081.008694817394,Debit,Mumbai
+TXN20331,ACC1015,2025-02-25 04:00,Amazon,Electronics,1826.25,Debit,Coimbatore
+TXN20332,ACC1003,2025-02-25 08:00,Electronics Hub,Cash,394.7,Credit,Hyderabad
+TXN20333,ACC1037,2025-02-25 12:00,Restaurant,Transfer,1964.97,Credit,Coimbatore
+TXN20334,ACC1022,2025-02-25 16:00,Grocery Mart,Bills,192.49,Debit,Hyderabad
+TXN20335,ACC1014,2025-02-25 20:00,ATM Withdrawal,Groceries,6312.82,Debit,Coimbatore
+TXN20336,ACC1036,2025-02-26 00:00,Online Transfer,Bills,2854.92,Debit,Coimbatore
+TXN20337,ACC1019,2025-02-26 04:00,Amazon,Dining,4377.54,Credit,Hyderabad
+TXN20338,ACC1037,2025-02-26 08:00,Utility Bill,Electronics,1001.24,Debit,Delhi
+TXN20339,ACC1023,2025-02-26 12:00,Electronics Hub,Shopping,1862.01,Debit,Mumbai
+TXN20340,ACC1005,2025-02-26 16:00,Amazon,Dining,1351.53,Debit,Mumbai
+TXN20341,ACC1024,2025-02-26 20:00,Grocery Mart,Cash,1282.17,Credit,Hyderabad
+TXN20342,ACC1011,2025-02-27 00:00,Amazon,Bills,3818.47,Debit,Coimbatore
+TXN20343,ACC1026,2025-02-27 04:00,Online Transfer,Transfer,3944.34,Debit,Chennai
+TXN20344,ACC1034,2025-02-27 08:00,Online Transfer,Transfer,6704.41,Debit,Delhi
+TXN20345,ACC1016,2025-02-27 12:00,Restaurant,Shopping,2072.24,Debit,Bangalore
+TXN20346,ACC1019,2025-02-27 16:00,Restaurant,Cash,1546.81,Credit,Bangalore
+TXN20347,ACC1034,2025-02-27 20:00,Utility Bill,Dining,4498.71,Debit,Hyderabad
+TXN20348,ACC1010,2025-02-28 00:00,Amazon,Transfer,1588.75,Debit,Coimbatore
+TXN20349,ACC1004,2025-02-28 04:00,ATM Withdrawal,Transfer,4926.05,Debit,Chennai
+TXN20350,ACC1003,2025-02-28 08:00,Online Transfer,Bills,630.45,Debit,Coimbatore
+TXN20351,ACC1004,2025-02-28 12:00,Fuel Station,Cash,7540.19,Debit,Chennai
+TXN20352,ACC1007,2025-02-28 16:00,Restaurant,Electronics,3671.05,Credit,Delhi
+TXN20353,ACC1002,2025-02-28 20:00,Restaurant,Bills,348.21,Credit,Delhi
+TXN20354,ACC1039,2025-03-01 00:00,Electronics Hub,Dining,395.11,Credit,Delhi
+TXN20355,ACC1010,2025-03-01 04:00,Electronics Hub,Electronics,2332.97,Debit,Hyderabad
+TXN20356,ACC1008,2025-03-01 08:00,Restaurant,Bills,5199.96,Debit,Bangalore
+TXN20357,ACC1029,2025-03-01 12:00,Utility Bill,Cash,1291.08,Debit,Mumbai
+TXN20358,ACC1004,2025-03-01 16:00,Grocery Mart,Shopping,2818.81,Credit,Hyderabad
+TXN20359,ACC1000,2025-03-01 20:00,ATM Withdrawal,Shopping,4065.41,Credit,Coimbatore
+TXN20360,ACC1023,2025-03-02 00:00,Grocery Mart,Cash,1787.03,Debit,Chennai
+TXN20361,ACC1020,2025-03-02 04:00,Restaurant,Fuel,204.15,Credit,Hyderabad
+TXN20362,ACC1029,2025-03-02 08:00,ATM Withdrawal,Cash,210.96,Debit,Coimbatore
+TXN20363,ACC1031,2025-03-02 12:00,Fuel Station,Cash,4934.71,Credit,Coimbatore
+TXN20364,ACC1022,2025-03-02 16:00,Amazon,Electronics,1683.69,Debit,Bangalore
+TXN20365,ACC1030,2025-03-02 20:00,ATM Withdrawal,Fuel,1192.42,Debit,Delhi
+TXN20366,ACC1000,2025-03-03 00:00,Amazon,Fuel,1578.59,Debit,Chennai
+TXN20367,ACC1034,2025-03-03 04:00,Electronics Hub,Dining,1157.16,Debit,Delhi
+TXN20368,ACC1020,2025-03-03 08:00,Restaurant,Groceries,8579.99,Debit,Mumbai
+TXN20369,ACC1015,2025-03-03 12:00,Fuel Station,Bills,1366.27,Debit,Delhi
+TXN20370,ACC1020,2025-03-03 16:00,ATM Withdrawal,Dining,1856.86,Debit,Coimbatore
+TXN20371,ACC1017,2025-03-03 20:00,Grocery Mart,Bills,3995.13,Debit,Delhi
+TXN20372,ACC1010,2025-03-04 00:00,Electronics Hub,Groceries,1559.9,Debit,Bangalore
+TXN20373,ACC1000,2025-03-04 04:00,Amazon,Shopping,5983.66,Debit,Delhi
+TXN20374,ACC1000,2025-03-04 08:00,ATM Withdrawal,Fuel,1519.46,Credit,Coimbatore
+TXN20375,ACC1034,2025-03-04 12:00,Restaurant,Bills,2027.22,Debit,Mumbai
+TXN20376,ACC1035,2025-03-04 16:00,Unknown Merchant,Shopping,32387.74609658546,Debit,Bangalore
+TXN20377,ACC1028,2025-03-04 20:00,Grocery Mart,Shopping,1520.35,Debit,Coimbatore
+TXN20378,ACC1035,2025-03-05 00:00,Electronics Hub,Fuel,2082.66,Debit,Mumbai
+TXN20379,ACC1021,2025-03-05 04:00,Online Transfer,Shopping,3145.35,Debit,Chennai
+TXN20380,ACC1038,2025-03-05 08:00,Utility Bill,Dining,297.26,Debit,Mumbai
+TXN20381,ACC1024,2025-03-05 12:00,Electronics Hub,Electronics,3066.29,Credit,Coimbatore
+TXN20382,ACC1022,2025-03-05 16:00,Grocery Mart,Transfer,1130.55,Debit,Chennai
+TXN20383,ACC1023,2025-03-05 20:00,Utility Bill,Fuel,433.83,Credit,Hyderabad
+TXN20384,ACC1028,2025-03-06 00:00,Utility Bill,Fuel,5441.32,Debit,Bangalore
+TXN20385,ACC1011,2025-03-06 04:00,Unknown Merchant,Dining,13145.693765699325,Debit,Hyderabad
+TXN20386,ACC1011,2025-03-06 08:00,Online Transfer,Cash,10110.54,Credit,Hyderabad
+TXN20387,ACC1022,2025-03-06 12:00,Utility Bill,Dining,29.84,Debit,Mumbai
+TXN20388,ACC1028,2025-03-06 16:00,Online Transfer,Cash,2194.86,Debit,Chennai
+TXN20389,ACC1036,2025-03-06 20:00,Grocery Mart,Groceries,2482.32,Debit,Coimbatore
+TXN20390,ACC1002,2025-03-07 00:00,ATM Withdrawal,Electronics,2070.16,Debit,Delhi
+TXN20391,ACC1029,2025-03-07 04:00,ATM Withdrawal,Bills,3186.33,Debit,Hyderabad
+TXN20392,ACC1039,2025-03-07 08:00,Electronics Hub,Shopping,271.48,Debit,Bangalore
+TXN20393,ACC1008,2025-03-07 12:00,Utility Bill,Groceries,4097.67,Credit,Chennai
+TXN20394,ACC1038,2025-03-07 16:00,Restaurant,Transfer,2758.37,Debit,Hyderabad
+TXN20395,ACC1026,2025-03-07 20:00,Grocery Mart,Groceries,1671.78,Debit,Delhi
+TXN20396,ACC1017,2025-03-08 00:00,Amazon,Bills,2840.51,Debit,Bangalore
+TXN20397,ACC1016,2025-03-08 04:00,Restaurant,Bills,2760.99,Credit,Bangalore
+TXN20398,ACC1007,2025-03-08 08:00,Electronics Hub,Dining,1743.44,Debit,Delhi
+TXN20399,ACC1004,2025-03-08 12:00,Electronics Hub,Dining,3568.97,Debit,Chennai
+TXN20400,ACC1003,2025-03-08 16:00,Amazon,Dining,2203.9,Credit,Hyderabad
+TXN20401,ACC1023,2025-03-08 20:00,Online Transfer,Electronics,5104.82,Debit,Delhi
+TXN20402,ACC1028,2025-03-09 00:00,Fuel Station,Shopping,3152.47,Credit,Bangalore
+TXN20403,ACC1036,2025-03-09 04:00,Restaurant,Shopping,4188.58,Credit,Coimbatore
+TXN20404,ACC1031,2025-03-09 08:00,Online Transfer,Electronics,3237.98,Debit,Mumbai
+TXN20405,ACC1021,2025-03-09 12:00,Restaurant,Dining,2999.01,Debit,Delhi
+TXN20406,ACC1000,2025-03-09 16:00,Amazon,Groceries,2312.84,Debit,Delhi
+TXN20407,ACC1028,2025-03-09 20:00,Fuel Station,Groceries,10747.51,Credit,Chennai
+TXN20408,ACC1007,2025-03-10 00:00,Electronics Hub,Transfer,4226.39,Debit,Mumbai
+TXN20409,ACC1026,2025-03-10 04:00,ATM Withdrawal,Fuel,1105.69,Debit,Delhi
+TXN20410,ACC1005,2025-03-10 08:00,Grocery Mart,Groceries,473.22,Debit,Delhi
+TXN20411,ACC1012,2025-03-10 12:00,Restaurant,Fuel,4778.8,Debit,Hyderabad
+TXN20412,ACC1001,2025-03-10 16:00,Fuel Station,Cash,3484.32,Debit,Hyderabad
+TXN20413,ACC1021,2025-03-10 20:00,Grocery Mart,Fuel,1498.6,Debit,Bangalore
+TXN20414,ACC1025,2025-03-11 00:00,Grocery Mart,Fuel,2239.03,Debit,Mumbai
+TXN20415,ACC1025,2025-03-11 04:00,Electronics Hub,Dining,360.86,Credit,Chennai
+TXN20416,ACC1021,2025-03-11 08:00,Utility Bill,Electronics,2100.01,Credit,Mumbai
+TXN20417,ACC1038,2025-03-11 12:00,Online Transfer,Dining,3870.71,Debit,Hyderabad
+TXN20418,ACC1037,2025-03-11 16:00,Utility Bill,Cash,1214.75,Debit,Delhi
+TXN20419,ACC1025,2025-03-11 20:00,Grocery Mart,Dining,2457.52,Debit,Mumbai
+TXN20420,ACC1004,2025-03-12 00:00,Restaurant,Groceries,1481.3,Debit,Bangalore
+TXN20421,ACC1029,2025-03-12 04:00,Grocery Mart,Transfer,2010.13,Debit,Chennai
+TXN20422,ACC1022,2025-03-12 08:00,Utility Bill,Dining,2043.37,Debit,Coimbatore
+TXN20423,ACC1032,2025-03-12 12:00,Electronics Hub,Transfer,7308.97,Debit,Delhi
+TXN20424,ACC1022,2025-03-12 16:00,Online Transfer,Bills,1650.16,Debit,Hyderabad
+TXN20425,ACC1034,2025-03-12 20:00,Amazon,Shopping,2420.95,Debit,Mumbai
+TXN20426,ACC1010,2025-03-13 00:00,Online Transfer,Cash,489.76,Debit,Chennai
+TXN20427,ACC1013,2025-03-13 04:00,ATM Withdrawal,Groceries,2181.55,Debit,Mumbai
+TXN20428,ACC1035,2025-03-13 08:00,Fuel Station,Groceries,7767.99,Debit,Bangalore
+TXN20429,ACC1033,2025-03-13 12:00,Online Transfer,Fuel,1241.41,Credit,Coimbatore
+TXN20430,ACC1038,2025-03-13 16:00,Fuel Station,Electronics,1627.87,Credit,Coimbatore
+TXN20431,ACC1039,2025-03-13 20:00,Online Transfer,Groceries,1581.57,Debit,Hyderabad
+TXN20432,ACC1016,2025-03-14 00:00,Online Transfer,Bills,2149.54,Debit,Mumbai
+TXN20433,ACC1004,2025-03-14 04:00,Utility Bill,Shopping,5259.83,Debit,Coimbatore
+TXN20434,ACC1023,2025-03-14 08:00,Grocery Mart,Groceries,1618.37,Debit,Bangalore
+TXN20435,ACC1000,2025-03-14 12:00,Utility Bill,Fuel,6303.18,Debit,Chennai
+TXN20436,ACC1018,2025-03-14 16:00,Restaurant,Electronics,3309.96,Debit,Hyderabad
+TXN20437,ACC1009,2025-03-14 20:00,Utility Bill,Shopping,5576.38,Debit,Chennai
+TXN20438,ACC1006,2025-03-15 00:00,Online Transfer,Shopping,3153.35,Credit,Coimbatore
+TXN20439,ACC1017,2025-03-15 04:00,Utility Bill,Cash,2859.88,Debit,Coimbatore
+TXN20440,ACC1002,2025-03-15 08:00,Restaurant,Electronics,3922.22,Debit,Bangalore
+TXN20441,ACC1014,2025-03-15 12:00,ATM Withdrawal,Groceries,2127.0,Debit,Coimbatore
+TXN20442,ACC1002,2025-03-15 16:00,Online Transfer,Shopping,3180.07,Credit,Hyderabad
+TXN20443,ACC1031,2025-03-15 20:00,Restaurant,Groceries,2871.56,Debit,Mumbai
+TXN20444,ACC1008,2025-03-16 00:00,Restaurant,Shopping,1536.75,Debit,Hyderabad
+TXN20445,ACC1013,2025-03-16 04:00,Online Transfer,Transfer,4956.43,Credit,Chennai
+TXN20446,ACC1028,2025-03-16 08:00,Amazon,Shopping,1854.45,Debit,Coimbatore
+TXN20447,ACC1026,2025-03-16 12:00,ATM Withdrawal,Fuel,4874.66,Debit,Chennai
+TXN20448,ACC1039,2025-03-16 16:00,ATM Withdrawal,Bills,997.15,Debit,Bangalore
+TXN20449,ACC1018,2025-03-16 20:00,Fuel Station,Fuel,3162.01,Debit,Mumbai
+TXN20450,ACC1020,2025-03-17 00:00,ATM Withdrawal,Transfer,1828.27,Debit,Coimbatore
+TXN20451,ACC1023,2025-03-17 04:00,ATM Withdrawal,Fuel,4515.04,Credit,Chennai
+TXN20452,ACC1028,2025-03-17 08:00,Restaurant,Dining,2722.0,Debit,Coimbatore
+TXN20453,ACC1028,2025-03-17 12:00,Utility Bill,Transfer,7318.16,Debit,Hyderabad
+TXN20454,ACC1015,2025-03-17 16:00,ATM Withdrawal,Dining,3019.49,Debit,Hyderabad
+TXN20455,ACC1033,2025-03-17 20:00,Restaurant,Electronics,1960.24,Credit,Coimbatore
+TXN20456,ACC1000,2025-03-18 00:00,ATM Withdrawal,Dining,8859.72,Debit,Hyderabad
+TXN20457,ACC1001,2025-03-18 04:00,Grocery Mart,Cash,1634.47,Debit,Delhi
+TXN20458,ACC1024,2025-03-18 08:00,Online Transfer,Fuel,1851.86,Debit,Mumbai
+TXN20459,ACC1039,2025-03-18 12:00,Restaurant,Shopping,3359.01,Debit,Bangalore
+TXN20460,ACC1036,2025-03-18 16:00,Restaurant,Transfer,2670.68,Debit,Bangalore
+TXN20461,ACC1022,2025-03-18 20:00,Restaurant,Electronics,3384.66,Credit,Hyderabad
+TXN20462,ACC1001,2025-03-19 00:00,Utility Bill,Groceries,4342.34,Debit,Bangalore
+TXN20463,ACC1020,2025-03-19 04:00,Utility Bill,Shopping,1568.06,Debit,Coimbatore
+TXN20464,ACC1008,2025-03-19 08:00,Fuel Station,Groceries,585.41,Credit,Hyderabad
+TXN20465,ACC1023,2025-03-19 12:00,Online Transfer,Bills,2420.3,Debit,Coimbatore
+TXN20466,ACC1027,2025-03-19 16:00,Amazon,Cash,1705.2,Debit,Coimbatore
+TXN20467,ACC1035,2025-03-19 20:00,Online Transfer,Groceries,1711.61,Debit,Delhi
+TXN20468,ACC1014,2025-03-20 00:00,Utility Bill,Cash,3193.76,Debit,Hyderabad
+TXN20469,ACC1022,2025-03-20 04:00,Utility Bill,Groceries,992.15,Debit,Mumbai
+TXN20470,ACC1025,2025-03-20 08:00,ATM Withdrawal,Dining,5189.0,Debit,Chennai
+TXN20471,ACC1025,2025-03-20 12:00,ATM Withdrawal,Bills,3489.24,Debit,Mumbai
+TXN20472,ACC1030,2025-03-20 16:00,Amazon,Shopping,2833.62,Debit,Delhi
+TXN20473,ACC1012,2025-03-20 20:00,Utility Bill,Dining,1079.55,Debit,Mumbai
+TXN20474,ACC1023,2025-03-21 00:00,Amazon,Electronics,2780.35,Debit,Mumbai
+TXN20475,ACC1038,2025-03-21 04:00,Utility Bill,Electronics,2634.93,Debit,Hyderabad
+TXN20476,ACC1024,2025-03-21 08:00,Restaurant,Groceries,1837.33,Debit,Hyderabad
+TXN20477,ACC1022,2025-03-21 12:00,Fuel Station,Fuel,6477.45,Credit,Delhi
+TXN20478,ACC1027,2025-03-21 16:00,Utility Bill,Transfer,1106.8,Debit,Coimbatore
+TXN20479,ACC1002,2025-03-21 20:00,Utility Bill,Transfer,377.26,Credit,Chennai
+TXN20480,ACC1018,2025-03-22 00:00,Amazon,Electronics,750.22,Debit,Bangalore
+TXN20481,ACC1037,2025-03-22 04:00,Restaurant,Groceries,6677.25,Credit,Mumbai
+TXN20482,ACC1017,2025-03-22 08:00,Online Transfer,Transfer,1252.31,Credit,Coimbatore
+TXN20483,ACC1017,2025-03-22 12:00,Utility Bill,Transfer,3744.39,Debit,Chennai
+TXN20484,ACC1004,2025-03-22 16:00,Online Transfer,Transfer,3153.86,Debit,Delhi
+TXN20485,ACC1025,2025-03-22 20:00,Amazon,Electronics,397.51,Debit,Mumbai
+TXN20486,ACC1029,2025-03-23 00:00,Fuel Station,Bills,892.8,Credit,Bangalore
+TXN20487,ACC1011,2025-03-23 04:00,Electronics Hub,Cash,1668.37,Credit,Coimbatore
+TXN20488,ACC1037,2025-03-23 08:00,Electronics Hub,Shopping,3011.88,Debit,Chennai
+TXN20489,ACC1031,2025-03-23 12:00,Electronics Hub,Fuel,3165.96,Credit,Delhi
+TXN20490,ACC1003,2025-03-23 16:00,Utility Bill,Electronics,4323.13,Credit,Delhi
+TXN20491,ACC1030,2025-03-23 20:00,Restaurant,Fuel,1702.07,Debit,Delhi
+TXN20492,ACC1013,2025-03-24 00:00,Online Transfer,Electronics,636.76,Debit,Bangalore
+TXN20493,ACC1005,2025-03-24 04:00,Amazon,Fuel,860.99,Debit,Chennai
+TXN20494,ACC1039,2025-03-24 08:00,ATM Withdrawal,Transfer,8998.78,Debit,Chennai
+TXN20495,ACC1000,2025-03-24 12:00,Fuel Station,Shopping,1834.44,Credit,Mumbai
+TXN20496,ACC1015,2025-03-24 16:00,Fuel Station,Dining,5361.98,Debit,Mumbai
+TXN20497,ACC1036,2025-03-24 20:00,Amazon,Electronics,1412.39,Debit,Chennai
+TXN20498,ACC1013,2025-03-25 00:00,ATM Withdrawal,Dining,8767.53,Credit,Delhi
+TXN20499,ACC1032,2025-03-25 04:00,Amazon,Shopping,1127.48,Debit,Delhi
+TXN20500,ACC1032,2025-03-25 08:00,Fuel Station,Transfer,3388.61,Debit,Coimbatore
+TXN20501,ACC1011,2025-03-25 12:00,Electronics Hub,Fuel,1669.37,Debit,Coimbatore
+TXN20502,ACC1001,2025-03-25 16:00,Online Transfer,Bills,297.03,Debit,Coimbatore
+TXN20503,ACC1032,2025-03-25 20:00,ATM Withdrawal,Shopping,1767.6,Credit,Mumbai
+TXN20504,ACC1039,2025-03-26 00:00,Utility Bill,Cash,8227.67,Debit,Hyderabad
+TXN20505,ACC1006,2025-03-26 04:00,Amazon,Transfer,4626.52,Debit,Hyderabad
+TXN20506,ACC1003,2025-03-26 08:00,Amazon,Bills,546.22,Credit,Bangalore
+TXN20507,ACC1038,2025-03-26 12:00,Online Transfer,Cash,1688.2,Debit,Bangalore
+TXN20508,ACC1030,2025-03-26 16:00,Utility Bill,Transfer,1107.98,Debit,Chennai
+TXN20509,ACC1004,2025-03-26 20:00,Electronics Hub,Fuel,3963.99,Debit,Chennai
+TXN20510,ACC1027,2025-03-27 00:00,Online Transfer,Electronics,5215.16,Debit,Mumbai
+TXN20511,ACC1030,2025-03-27 04:00,Amazon,Bills,2356.02,Credit,Hyderabad
+TXN20512,ACC1026,2025-03-27 08:00,Electronics Hub,Cash,3349.66,Credit,Bangalore
+TXN20513,ACC1026,2025-03-27 12:00,ATM Withdrawal,Shopping,1020.62,Debit,Chennai
+TXN20514,ACC1027,2025-03-27 16:00,Restaurant,Electronics,609.71,Debit,Coimbatore
+TXN20515,ACC1025,2025-03-27 20:00,ATM Withdrawal,Shopping,3133.21,Credit,Chennai
+TXN20516,ACC1002,2025-03-28 00:00,Amazon,Groceries,1343.19,Debit,Mumbai
+TXN20517,ACC1021,2025-03-28 04:00,Utility Bill,Cash,3788.11,Debit,Delhi
+TXN20518,ACC1020,2025-03-28 08:00,Restaurant,Cash,3734.51,Debit,Hyderabad
+TXN20519,ACC1010,2025-03-28 12:00,Electronics Hub,Cash,2218.02,Debit,Delhi
+TXN20520,ACC1033,2025-03-28 16:00,Grocery Mart,Electronics,2621.18,Debit,Chennai
+TXN20521,ACC1037,2025-03-28 20:00,ATM Withdrawal,Fuel,907.4,Debit,Chennai
+TXN20522,ACC1018,2025-03-29 00:00,Fuel Station,Transfer,1204.72,Debit,Delhi
+TXN20523,ACC1017,2025-03-29 04:00,Utility Bill,Transfer,798.83,Credit,Chennai
+TXN20524,ACC1017,2025-03-29 08:00,Fuel Station,Bills,2557.36,Debit,Bangalore
+TXN20525,ACC1034,2025-03-29 12:00,Amazon,Cash,1350.04,Debit,Mumbai
+TXN20526,ACC1008,2025-03-29 16:00,Electronics Hub,Groceries,4363.94,Debit,Mumbai
+TXN20527,ACC1013,2025-03-29 20:00,Grocery Mart,Shopping,5564.96,Debit,Mumbai
+TXN20528,ACC1005,2025-03-30 00:00,ATM Withdrawal,Fuel,1514.6,Credit,Chennai
+TXN20529,ACC1022,2025-03-30 04:00,Electronics Hub,Cash,1264.5,Credit,Chennai
+TXN20530,ACC1018,2025-03-30 08:00,Restaurant,Bills,4737.28,Debit,Bangalore
+TXN20531,ACC1001,2025-03-30 12:00,Utility Bill,Bills,3697.83,Debit,Mumbai
+TXN20532,ACC1032,2025-03-30 16:00,Online Transfer,Groceries,1420.3,Debit,Hyderabad
+TXN20533,ACC1007,2025-03-30 20:00,Electronics Hub,Electronics,3603.17,Debit,Delhi
+TXN20534,ACC1004,2025-03-31 00:00,Fuel Station,Cash,2276.88,Credit,Delhi
+TXN20535,ACC1029,2025-03-31 04:00,Grocery Mart,Dining,3843.41,Debit,Mumbai
+TXN20536,ACC1012,2025-03-31 08:00,Utility Bill,Electronics,6148.73,Debit,Delhi
+TXN20537,ACC1036,2025-03-31 12:00,Utility Bill,Bills,2207.6,Debit,Mumbai
+TXN20538,ACC1000,2025-03-31 16:00,ATM Withdrawal,Fuel,3383.76,Debit,Mumbai
+TXN20539,ACC1037,2025-03-31 20:00,Fuel Station,Shopping,2170.36,Debit,Coimbatore
+TXN20540,ACC1002,2025-04-01 00:00,Utility Bill,Fuel,3229.04,Debit,Hyderabad
+TXN20541,ACC1021,2025-04-01 04:00,ATM Withdrawal,Groceries,1768.76,Debit,Mumbai
+TXN20542,ACC1022,2025-04-01 08:00,Grocery Mart,Dining,1793.48,Credit,Delhi
+TXN20543,ACC1009,2025-04-01 12:00,Electronics Hub,Electronics,3222.31,Debit,Delhi
+TXN20544,ACC1030,2025-04-01 16:00,Fuel Station,Cash,5496.16,Credit,Delhi
+TXN20545,ACC1022,2025-04-01 20:00,Online Transfer,Shopping,5731.26,Debit,Chennai
+TXN20546,ACC1023,2025-04-02 00:00,Online Transfer,Groceries,4602.96,Debit,Hyderabad
+TXN20547,ACC1010,2025-04-02 04:00,Utility Bill,Fuel,1243.38,Debit,Mumbai
+TXN20548,ACC1008,2025-04-02 08:00,Utility Bill,Transfer,4653.05,Debit,Coimbatore
+TXN20549,ACC1011,2025-04-02 12:00,Unknown Merchant,Groceries,46487.418618682364,Debit,Hyderabad
+TXN20550,ACC1039,2025-04-02 16:00,Electronics Hub,Shopping,1719.21,Debit,Bangalore
+TXN20551,ACC1003,2025-04-02 20:00,Utility Bill,Electronics,2086.6,Debit,Hyderabad
+TXN20552,ACC1007,2025-04-03 00:00,Fuel Station,Groceries,587.07,Debit,Mumbai
+TXN20553,ACC1016,2025-04-03 04:00,Online Transfer,Dining,4579.51,Credit,Coimbatore
+TXN20554,ACC1006,2025-04-03 08:00,Amazon,Fuel,1949.31,Credit,Chennai
+TXN20555,ACC1007,2025-04-03 12:00,Online Transfer,Cash,3369.2,Debit,Bangalore
+TXN20556,ACC1013,2025-04-03 16:00,Restaurant,Bills,5323.94,Credit,Coimbatore
+TXN20557,ACC1016,2025-04-03 20:00,Restaurant,Cash,2974.2,Debit,Mumbai
+TXN20558,ACC1002,2025-04-04 00:00,Fuel Station,Bills,6986.69,Debit,Chennai
+TXN20559,ACC1039,2025-04-04 04:00,Restaurant,Bills,4539.47,Debit,Coimbatore
+TXN20560,ACC1004,2025-04-04 08:00,Utility Bill,Fuel,6098.59,Debit,Hyderabad
+TXN20561,ACC1002,2025-04-04 12:00,Online Transfer,Electronics,3683.09,Credit,Hyderabad
+TXN20562,ACC1029,2025-04-04 16:00,Online Transfer,Fuel,1329.39,Debit,Mumbai
+TXN20563,ACC1037,2025-04-04 20:00,Electronics Hub,Electronics,3721.47,Debit,Coimbatore
+TXN20564,ACC1013,2025-04-05 00:00,Grocery Mart,Fuel,336.78,Credit,Delhi
+TXN20565,ACC1024,2025-04-05 04:00,Electronics Hub,Groceries,1385.51,Credit,Mumbai
+TXN20566,ACC1000,2025-04-05 08:00,Amazon,Fuel,671.49,Debit,Chennai
+TXN20567,ACC1021,2025-04-05 12:00,Grocery Mart,Transfer,1608.84,Debit,Chennai
+TXN20568,ACC1035,2025-04-05 16:00,Amazon,Fuel,1944.77,Debit,Coimbatore
+TXN20569,ACC1026,2025-04-05 20:00,Restaurant,Shopping,372.35,Debit,Delhi
+TXN20570,ACC1029,2025-04-06 00:00,Utility Bill,Dining,3495.61,Debit,Mumbai
+TXN20571,ACC1015,2025-04-06 04:00,Electronics Hub,Groceries,4797.4,Debit,Mumbai
+TXN20572,ACC1004,2025-04-06 08:00,Online Transfer,Fuel,924.12,Debit,Hyderabad
+TXN20573,ACC1021,2025-04-06 12:00,ATM Withdrawal,Bills,1941.68,Credit,Mumbai
+TXN20574,ACC1027,2025-04-06 16:00,Electronics Hub,Dining,5548.85,Debit,Mumbai
+TXN20575,ACC1010,2025-04-06 20:00,Fuel Station,Groceries,903.25,Debit,Chennai
+TXN20576,ACC1027,2025-04-07 00:00,Amazon,Bills,3246.12,Debit,Delhi
+TXN20577,ACC1000,2025-04-07 04:00,ATM Withdrawal,Groceries,1455.96,Debit,Chennai
+TXN20578,ACC1021,2025-04-07 08:00,ATM Withdrawal,Shopping,4323.95,Debit,Delhi
+TXN20579,ACC1025,2025-04-07 12:00,Amazon,Electronics,906.33,Debit,Bangalore
+TXN20580,ACC1003,2025-04-07 16:00,Electronics Hub,Groceries,1598.54,Debit,Mumbai
+TXN20581,ACC1005,2025-04-07 20:00,Grocery Mart,Dining,3931.85,Debit,Coimbatore
+TXN20582,ACC1000,2025-04-08 00:00,Fuel Station,Transfer,1776.21,Debit,Bangalore
+TXN20583,ACC1017,2025-04-08 04:00,Restaurant,Shopping,844.5,Debit,Chennai
+TXN20584,ACC1010,2025-04-08 08:00,Fuel Station,Shopping,2828.27,Credit,Coimbatore
+TXN20585,ACC1039,2025-04-08 12:00,Electronics Hub,Groceries,6395.64,Debit,Bangalore
+TXN20586,ACC1023,2025-04-08 16:00,Grocery Mart,Dining,4521.88,Debit,Chennai
+TXN20587,ACC1039,2025-04-08 20:00,ATM Withdrawal,Dining,1234.43,Credit,Delhi
+TXN20588,ACC1002,2025-04-09 00:00,Grocery Mart,Cash,1481.6,Debit,Mumbai
+TXN20589,ACC1019,2025-04-09 04:00,Online Transfer,Cash,3675.03,Debit,Bangalore
+TXN20590,ACC1022,2025-04-09 08:00,Utility Bill,Cash,3633.6,Debit,Chennai
+TXN20591,ACC1012,2025-04-09 12:00,Utility Bill,Groceries,1113.34,Debit,Bangalore
+TXN20592,ACC1024,2025-04-09 16:00,Online Transfer,Bills,5337.16,Debit,Coimbatore
+TXN20593,ACC1002,2025-04-09 20:00,Restaurant,Bills,3179.96,Debit,Delhi
+TXN20594,ACC1007,2025-04-10 00:00,Electronics Hub,Fuel,3265.74,Debit,Mumbai
+TXN20595,ACC1028,2025-04-10 04:00,Electronics Hub,Cash,5104.2,Debit,Bangalore
+TXN20596,ACC1037,2025-04-10 08:00,ATM Withdrawal,Cash,3315.94,Credit,Bangalore
+TXN20597,ACC1007,2025-04-10 12:00,Grocery Mart,Dining,6723.55,Debit,Mumbai
+TXN20598,ACC1035,2025-04-10 16:00,Grocery Mart,Cash,1157.17,Debit,Chennai
+TXN20599,ACC1032,2025-04-10 20:00,Utility Bill,Shopping,4652.49,Debit,Coimbatore

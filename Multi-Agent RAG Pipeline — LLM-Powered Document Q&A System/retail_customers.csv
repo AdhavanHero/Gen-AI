@@ -1,0 +1,701 @@
+order_id,customer_id,purchase_date,category,amount,quantity,payment_method,city
+ORD5000,CUST556,2024-10-01,Groceries,1316.36,4,Cash on Delivery,Coimbatore
+ORD5001,CUST504,2024-10-01,Electronics,1347.41,5,UPI,Pune
+ORD5002,CUST548,2024-10-01,Home & Kitchen,1587.94,5,Debit Card,Delhi
+ORD5003,CUST612,2024-10-01,Clothing,2733.02,3,UPI,Pune
+ORD5004,CUST620,2024-10-01,Home & Kitchen,1794.71,1,UPI,Mumbai
+ORD5005,CUST598,2024-10-02,Beauty,4036.43,5,Debit Card,Hyderabad
+ORD5006,CUST572,2024-10-02,Electronics,967.98,3,Cash on Delivery,Mumbai
+ORD5007,CUST610,2024-10-02,Beauty,3504.7,5,Debit Card,Mumbai
+ORD5008,CUST561,2024-10-02,Beauty,1230.04,2,UPI,Bangalore
+ORD5009,CUST622,2024-10-02,Books,656.6,3,Debit Card,Bangalore
+ORD5010,CUST548,2024-10-03,Home & Kitchen,1937.56,3,Credit Card,Coimbatore
+ORD5011,CUST600,2024-10-03,Beauty,1593.87,4,Cash on Delivery,Delhi
+ORD5012,CUST584,2024-10-03,Electronics,622.62,2,Debit Card,Hyderabad
+ORD5013,CUST559,2024-10-03,Sports,1834.35,2,UPI,Pune
+ORD5014,CUST648,2024-10-03,Electronics,1516.69,2,Credit Card,Chennai
+ORD5015,CUST619,2024-10-04,Groceries,1382.61,5,UPI,Coimbatore
+ORD5016,CUST633,2024-10-04,Groceries,778.67,2,Credit Card,Coimbatore
+ORD5017,CUST518,2024-10-04,Beauty,3641.68,2,Debit Card,Mumbai
+ORD5018,CUST550,2024-10-04,Clothing,1195.17,1,Credit Card,Bangalore
+ORD5019,CUST548,2024-10-04,Sports,3239.83,4,UPI,Hyderabad
+ORD5020,CUST553,2024-10-05,Electronics,192.45,5,UPI,Bangalore
+ORD5021,CUST505,2024-10-05,Beauty,2785.1,1,UPI,Bangalore
+ORD5022,CUST580,2024-10-05,Beauty,1758.73,2,Cash on Delivery,Bangalore
+ORD5023,CUST535,2024-10-05,Home & Kitchen,1131.0,1,Cash on Delivery,Coimbatore
+ORD5024,CUST612,2024-10-06,Home & Kitchen,1051.91,5,Credit Card,Chennai
+ORD5025,CUST512,2024-10-06,Clothing,4003.91,5,Cash on Delivery,Chennai
+ORD5026,CUST582,2024-10-06,Home & Kitchen,3217.78,5,UPI,Pune
+ORD5027,CUST515,2024-10-06,Sports,4385.61,5,UPI,Mumbai
+ORD5028,CUST634,2024-10-06,Electronics,745.7,1,Cash on Delivery,Mumbai
+ORD5029,CUST590,2024-10-07,Books,2517.46,1,Credit Card,Bangalore
+ORD5030,CUST528,2024-10-07,Clothing,1073.58,5,UPI,Delhi
+ORD5031,CUST637,2024-10-07,Electronics,676.03,4,UPI,Pune
+ORD5032,CUST609,2024-10-07,Sports,2373.43,1,Cash on Delivery,Mumbai
+ORD5033,CUST628,2024-10-07,Groceries,1047.28,3,Credit Card,Pune
+ORD5034,CUST633,2024-10-08,Beauty,289.58,3,UPI,Mumbai
+ORD5035,CUST569,2024-10-08,Electronics,2579.63,4,Cash on Delivery,Coimbatore
+ORD5036,CUST618,2024-10-08,Electronics,2940.52,4,UPI,Hyderabad
+ORD5037,CUST632,2024-10-08,Electronics,2088.73,3,Cash on Delivery,Coimbatore
+ORD5038,CUST576,2024-10-08,Clothing,3719.64,4,Cash on Delivery,Mumbai
+ORD5039,CUST530,2024-10-09,Home & Kitchen,1651.61,2,Debit Card,Pune
+ORD5040,CUST530,2024-10-09,Home & Kitchen,606.32,4,Cash on Delivery,Bangalore
+ORD5041,CUST622,2024-10-09,Sports,1418.54,1,Credit Card,Bangalore
+ORD5042,CUST612,2024-10-09,Groceries,1051.68,1,Credit Card,Pune
+ORD5043,CUST563,2024-10-09,Beauty,2099.46,5,Cash on Delivery,Hyderabad
+ORD5044,CUST566,2024-10-10,Electronics,2419.49,2,Cash on Delivery,Bangalore
+ORD5045,CUST621,2024-10-10,Groceries,2568.78,2,Debit Card,Delhi
+ORD5046,CUST571,2024-10-10,Books,2514.9,2,UPI,Pune
+ORD5047,CUST533,2024-10-10,Home & Kitchen,2904.24,2,UPI,Delhi
+ORD5048,CUST508,2024-10-11,Beauty,1750.26,2,Cash on Delivery,Hyderabad
+ORD5049,CUST558,2024-10-11,Beauty,1765.34,2,Debit Card,Coimbatore
+ORD5050,CUST603,2024-10-11,Beauty,1471.83,3,UPI,Coimbatore
+ORD5051,CUST524,2024-10-11,Home & Kitchen,428.6,4,UPI,Chennai
+ORD5052,CUST525,2024-10-11,Home & Kitchen,1659.23,5,Cash on Delivery,Delhi
+ORD5053,CUST626,2024-10-12,Clothing,4576.23,4,Credit Card,Delhi
+ORD5054,CUST607,2024-10-12,Books,1178.05,5,Credit Card,Hyderabad
+ORD5055,CUST564,2024-10-12,Beauty,1217.53,2,Credit Card,Bangalore
+ORD5056,CUST547,2024-10-12,Books,3983.3,3,Credit Card,Delhi
+ORD5057,CUST505,2024-10-12,Electronics,1851.47,5,UPI,Chennai
+ORD5058,CUST518,2024-10-13,Sports,1661.96,1,Credit Card,Pune
+ORD5059,CUST539,2024-10-13,Books,3533.94,1,Cash on Delivery,Bangalore
+ORD5060,CUST596,2024-10-13,Electronics,1661.21,1,Credit Card,Pune
+ORD5061,CUST632,2024-10-13,Home & Kitchen,723.0,5,UPI,Pune
+ORD5062,CUST550,2024-10-13,Clothing,1150.93,2,UPI,Chennai
+ORD5063,CUST596,2024-10-14,Clothing,2072.49,2,UPI,Mumbai
+ORD5064,CUST557,2024-10-14,Electronics,2079.41,2,Credit Card,Coimbatore
+ORD5065,CUST613,2024-10-14,Groceries,1535.41,4,UPI,Pune
+ORD5066,CUST644,2024-10-14,Home & Kitchen,2850.47,2,Debit Card,Bangalore
+ORD5067,CUST501,2024-10-14,Clothing,1441.1,2,UPI,Mumbai
+ORD5068,CUST551,2024-10-15,Clothing,806.51,4,Credit Card,Mumbai
+ORD5069,CUST501,2024-10-15,Sports,4125.5,2,UPI,Bangalore
+ORD5070,CUST527,2024-10-15,Books,3295.71,2,Credit Card,Chennai
+ORD5071,CUST532,2024-10-15,Groceries,935.74,5,Credit Card,Bangalore
+ORD5072,CUST531,2024-10-16,Electronics,2615.16,5,Debit Card,Coimbatore
+ORD5073,CUST586,2024-10-16,Groceries,1414.88,2,Cash on Delivery,Coimbatore
+ORD5074,CUST574,2024-10-16,Home & Kitchen,2312.57,5,UPI,Delhi
+ORD5075,CUST589,2024-10-16,Books,3388.08,5,Cash on Delivery,Pune
+ORD5076,CUST581,2024-10-16,Sports,2725.63,1,Credit Card,Chennai
+ORD5077,CUST567,2024-10-17,Electronics,3362.14,3,Cash on Delivery,Coimbatore
+ORD5078,CUST501,2024-10-17,Groceries,2680.79,4,Credit Card,Bangalore
+ORD5079,CUST565,2024-10-17,Clothing,3205.17,4,Debit Card,Bangalore
+ORD5080,CUST549,2024-10-17,Groceries,2524.16,1,Credit Card,Mumbai
+ORD5081,CUST533,2024-10-17,Sports,4829.01,2,UPI,Pune
+ORD5082,CUST511,2024-10-18,Sports,2125.35,2,Cash on Delivery,Bangalore
+ORD5083,CUST511,2024-10-18,Books,1396.42,2,Debit Card,Mumbai
+ORD5084,CUST625,2024-10-18,Home & Kitchen,3343.07,1,Debit Card,Chennai
+ORD5085,CUST581,2024-10-18,Books,5186.65,2,Debit Card,Mumbai
+ORD5086,CUST529,2024-10-18,Electronics,2335.41,1,UPI,Bangalore
+ORD5087,CUST607,2024-10-19,Books,2011.5,1,UPI,Delhi
+ORD5088,CUST624,2024-10-19,Beauty,604.93,5,Credit Card,Coimbatore
+ORD5089,CUST503,2024-10-19,Clothing,2515.76,5,UPI,Mumbai
+ORD5090,CUST594,2024-10-19,Electronics,689.28,4,Cash on Delivery,Hyderabad
+ORD5091,CUST538,2024-10-19,Books,1026.56,2,Credit Card,Hyderabad
+ORD5092,CUST592,2024-10-20,Electronics,1985.42,1,UPI,Delhi
+ORD5093,CUST541,2024-10-20,Books,4560.83,1,Debit Card,Chennai
+ORD5094,CUST501,2024-10-20,Home & Kitchen,1791.26,4,Debit Card,Bangalore
+ORD5095,CUST580,2024-10-20,Sports,1516.26,4,Credit Card,Delhi
+ORD5096,CUST525,2024-10-21,Sports,2259.0,4,Debit Card,Pune
+ORD5097,CUST620,2024-10-21,Home & Kitchen,1188.14,4,Debit Card,Pune
+ORD5098,CUST510,2024-10-21,Clothing,3376.28,2,Debit Card,Bangalore
+ORD5099,CUST573,2024-10-21,Groceries,1966.04,3,UPI,Chennai
+ORD5100,CUST568,2024-10-21,Groceries,1275.56,3,Credit Card,Bangalore
+ORD5101,CUST528,2024-10-22,Clothing,1201.49,4,Cash on Delivery,Chennai
+ORD5102,CUST644,2024-10-22,Electronics,1928.56,4,Cash on Delivery,Hyderabad
+ORD5103,CUST534,2024-10-22,Groceries,1447.63,1,UPI,Delhi
+ORD5104,CUST541,2024-10-22,Books,927.82,3,Debit Card,Bangalore
+ORD5105,CUST500,2024-10-22,Sports,1165.9,5,UPI,Chennai
+ORD5106,CUST501,2024-10-23,Sports,1126.24,1,UPI,Pune
+ORD5107,CUST578,2024-10-23,Sports,791.29,3,Cash on Delivery,Bangalore
+ORD5108,CUST536,2024-10-23,Clothing,921.66,1,Credit Card,Chennai
+ORD5109,CUST618,2024-10-23,Books,893.58,3,Cash on Delivery,Delhi
+ORD5110,CUST620,2024-10-23,Electronics,1837.69,1,Cash on Delivery,Chennai
+ORD5111,CUST628,2024-10-24,Electronics,3202.84,4,Credit Card,Pune
+ORD5112,CUST503,2024-10-24,Sports,146.66,2,Cash on Delivery,Delhi
+ORD5113,CUST507,2024-10-24,Books,975.18,4,Debit Card,Bangalore
+ORD5114,CUST588,2024-10-24,Sports,1252.14,2,Credit Card,Pune
+ORD5115,CUST599,2024-10-24,Sports,876.35,1,UPI,Bangalore
+ORD5116,CUST594,2024-10-25,Clothing,1905.71,3,UPI,Bangalore
+ORD5117,CUST608,2024-10-25,Beauty,5610.29,5,UPI,Chennai
+ORD5118,CUST510,2024-10-25,Books,4796.0,5,Cash on Delivery,Delhi
+ORD5119,CUST543,2024-10-25,Groceries,713.23,2,Cash on Delivery,Pune
+ORD5120,CUST594,2024-10-26,Sports,1312.68,4,Credit Card,Bangalore
+ORD5121,CUST601,2024-10-26,Groceries,1124.99,5,Credit Card,Hyderabad
+ORD5122,CUST640,2024-10-26,Groceries,3268.23,2,Cash on Delivery,Hyderabad
+ORD5123,CUST535,2024-10-26,Beauty,2606.75,5,Credit Card,Mumbai
+ORD5124,CUST590,2024-10-26,Groceries,1463.31,1,UPI,Delhi
+ORD5125,CUST531,2024-10-27,Groceries,2330.15,3,Credit Card,Mumbai
+ORD5126,CUST548,2024-10-27,Books,1799.24,5,Debit Card,Bangalore
+ORD5127,CUST646,2024-10-27,Books,883.44,2,Cash on Delivery,Coimbatore
+ORD5128,CUST614,2024-10-27,Electronics,1013.28,1,UPI,Mumbai
+ORD5129,CUST514,2024-10-27,Clothing,2777.87,4,Credit Card,Pune
+ORD5130,CUST618,2024-10-28,Groceries,4830.7,1,UPI,Bangalore
+ORD5131,CUST631,2024-10-28,Beauty,2384.79,1,UPI,Hyderabad
+ORD5132,CUST601,2024-10-28,Home & Kitchen,629.84,4,Debit Card,Mumbai
+ORD5133,CUST512,2024-10-28,Sports,3796.38,5,Cash on Delivery,Chennai
+ORD5134,CUST565,2024-10-28,Electronics,1840.6,5,Debit Card,Chennai
+ORD5135,CUST569,2024-10-29,Clothing,2274.53,4,Credit Card,Mumbai
+ORD5136,CUST554,2024-10-29,Electronics,1260.48,5,UPI,Delhi
+ORD5137,CUST549,2024-10-29,Clothing,961.89,3,Cash on Delivery,Coimbatore
+ORD5138,CUST600,2024-10-29,Sports,307.62,5,Debit Card,Bangalore
+ORD5139,CUST503,2024-10-29,Beauty,3682.59,1,Debit Card,Bangalore
+ORD5140,CUST522,2024-10-30,Groceries,1444.61,5,Credit Card,Mumbai
+ORD5141,CUST633,2024-10-30,Books,2975.48,1,Credit Card,Chennai
+ORD5142,CUST639,2024-10-30,Books,1332.44,2,Credit Card,Mumbai
+ORD5143,CUST647,2024-10-30,Books,2990.76,4,UPI,Coimbatore
+ORD5144,CUST598,2024-10-31,Groceries,206.18,2,UPI,Bangalore
+ORD5145,CUST639,2024-10-31,Groceries,566.93,1,UPI,Bangalore
+ORD5146,CUST500,2024-10-31,Sports,3424.86,2,Credit Card,Pune
+ORD5147,CUST600,2024-10-31,Sports,2812.36,4,UPI,Delhi
+ORD5148,CUST543,2024-10-31,Books,2250.59,4,Debit Card,Hyderabad
+ORD5149,CUST585,2024-11-01,Clothing,726.2,3,Debit Card,Chennai
+ORD5150,CUST513,2024-11-01,Beauty,2103.06,4,UPI,Chennai
+ORD5151,CUST579,2024-11-01,Groceries,5054.88,3,Cash on Delivery,Chennai
+ORD5152,CUST542,2024-11-01,Beauty,1152.48,3,Debit Card,Coimbatore
+ORD5153,CUST502,2024-11-01,Books,3800.57,4,Debit Card,Pune
+ORD5154,CUST620,2024-11-02,Clothing,2975.44,4,UPI,Hyderabad
+ORD5155,CUST575,2024-11-02,Home & Kitchen,3493.82,1,Cash on Delivery,Bangalore
+ORD5156,CUST528,2024-11-02,Sports,1422.38,4,Credit Card,Chennai
+ORD5157,CUST583,2024-11-02,Beauty,2386.07,5,Cash on Delivery,Bangalore
+ORD5158,CUST609,2024-11-02,Groceries,718.51,5,UPI,Bangalore
+ORD5159,CUST587,2024-11-03,Home & Kitchen,277.31,3,Credit Card,Bangalore
+ORD5160,CUST614,2024-11-03,Beauty,1047.28,2,Cash on Delivery,Pune
+ORD5161,CUST580,2024-11-03,Clothing,2315.56,2,Credit Card,Delhi
+ORD5162,CUST623,2024-11-03,Electronics,3335.79,2,UPI,Coimbatore
+ORD5163,CUST578,2024-11-03,Groceries,423.72,4,UPI,Coimbatore
+ORD5164,CUST507,2024-11-04,Sports,2808.42,3,Credit Card,Pune
+ORD5165,CUST611,2024-11-04,Beauty,838.72,5,UPI,Hyderabad
+ORD5166,CUST638,2024-11-04,Groceries,4620.89,3,UPI,Hyderabad
+ORD5167,CUST603,2024-11-04,Electronics,1846.15,3,Debit Card,Coimbatore
+ORD5168,CUST531,2024-11-05,Books,1475.95,5,UPI,Hyderabad
+ORD5169,CUST616,2024-11-05,Beauty,2105.09,5,Cash on Delivery,Delhi
+ORD5170,CUST517,2024-11-05,Books,696.98,1,Credit Card,Pune
+ORD5171,CUST501,2024-11-05,Groceries,238.42,4,Debit Card,Mumbai
+ORD5172,CUST554,2024-11-05,Groceries,2078.84,1,UPI,Mumbai
+ORD5173,CUST521,2024-11-06,Clothing,995.23,3,Debit Card,Mumbai
+ORD5174,CUST574,2024-11-06,Books,1954.83,1,Credit Card,Coimbatore
+ORD5175,CUST605,2024-11-06,Books,1442.65,2,UPI,Pune
+ORD5176,CUST639,2024-11-06,Groceries,3131.21,3,UPI,Delhi
+ORD5177,CUST515,2024-11-06,Clothing,4697.8,4,Credit Card,Delhi
+ORD5178,CUST617,2024-11-07,Clothing,308.62,4,UPI,Mumbai
+ORD5179,CUST539,2024-11-07,Sports,1812.61,1,Cash on Delivery,Chennai
+ORD5180,CUST573,2024-11-07,Sports,1285.09,3,Cash on Delivery,Chennai
+ORD5181,CUST621,2024-11-07,Clothing,5883.99,5,UPI,Coimbatore
+ORD5182,CUST532,2024-11-07,Clothing,1723.16,3,Credit Card,Chennai
+ORD5183,CUST646,2024-11-08,Home & Kitchen,3134.85,3,UPI,Hyderabad
+ORD5184,CUST562,2024-11-08,Books,3035.07,4,Debit Card,Hyderabad
+ORD5185,CUST525,2024-11-08,Electronics,3866.95,2,UPI,Bangalore
+ORD5186,CUST554,2024-11-08,Books,3333.95,4,Debit Card,Delhi
+ORD5187,CUST556,2024-11-08,Books,2115.43,4,Credit Card,Mumbai
+ORD5188,CUST601,2024-11-09,Sports,452.28,5,Cash on Delivery,Bangalore
+ORD5189,CUST629,2024-11-09,Home & Kitchen,1039.21,4,UPI,Hyderabad
+ORD5190,CUST588,2024-11-09,Clothing,892.29,3,Credit Card,Mumbai
+ORD5191,CUST585,2024-11-09,Books,1696.29,1,Debit Card,Coimbatore
+ORD5192,CUST575,2024-11-10,Home & Kitchen,1348.92,3,Cash on Delivery,Pune
+ORD5193,CUST554,2024-11-10,Electronics,3287.26,1,UPI,Coimbatore
+ORD5194,CUST611,2024-11-10,Sports,2115.61,1,Debit Card,Mumbai
+ORD5195,CUST618,2024-11-10,Groceries,740.36,4,Credit Card,Bangalore
+ORD5196,CUST533,2024-11-10,Sports,1516.72,3,UPI,Mumbai
+ORD5197,CUST575,2024-11-11,Beauty,4953.18,4,Cash on Delivery,Coimbatore
+ORD5198,CUST633,2024-11-11,Groceries,2563.55,5,Cash on Delivery,Chennai
+ORD5199,CUST629,2024-11-11,Groceries,1338.08,4,Debit Card,Coimbatore
+ORD5200,CUST609,2024-11-11,Books,1768.83,4,Debit Card,Pune
+ORD5201,CUST571,2024-11-11,Books,1304.58,3,Cash on Delivery,Chennai
+ORD5202,CUST648,2024-11-12,Home & Kitchen,2606.5,3,UPI,Delhi
+ORD5203,CUST503,2024-11-12,Electronics,2105.92,4,Cash on Delivery,Pune
+ORD5204,CUST624,2024-11-12,Electronics,5610.14,3,Debit Card,Mumbai
+ORD5205,CUST624,2024-11-12,Clothing,1221.86,1,UPI,Mumbai
+ORD5206,CUST554,2024-11-12,Clothing,2090.85,1,Debit Card,Hyderabad
+ORD5207,CUST560,2024-11-13,Home & Kitchen,1173.89,3,Cash on Delivery,Mumbai
+ORD5208,CUST631,2024-11-13,Electronics,664.81,4,Credit Card,Delhi
+ORD5209,CUST621,2024-11-13,Groceries,1705.68,2,Cash on Delivery,Delhi
+ORD5210,CUST573,2024-11-13,Sports,3581.19,4,Debit Card,Bangalore
+ORD5211,CUST645,2024-11-13,Beauty,398.08,3,Credit Card,Hyderabad
+ORD5212,CUST501,2024-11-14,Groceries,3329.83,2,Credit Card,Coimbatore
+ORD5213,CUST549,2024-11-14,Home & Kitchen,2719.42,4,Credit Card,Pune
+ORD5214,CUST530,2024-11-14,Home & Kitchen,3618.39,4,UPI,Hyderabad
+ORD5215,CUST538,2024-11-14,Sports,2211.38,3,UPI,Mumbai
+ORD5216,CUST583,2024-11-15,Home & Kitchen,667.4,1,Debit Card,Coimbatore
+ORD5217,CUST546,2024-11-15,Beauty,1818.85,1,UPI,Hyderabad
+ORD5218,CUST586,2024-11-15,Books,2884.74,3,UPI,Mumbai
+ORD5219,CUST597,2024-11-15,Sports,1809.0,5,Credit Card,Bangalore
+ORD5220,CUST549,2024-11-15,Home & Kitchen,1538.0,4,UPI,Mumbai
+ORD5221,CUST576,2024-11-16,Sports,2035.8,3,Credit Card,Coimbatore
+ORD5222,CUST602,2024-11-16,Books,764.39,4,Credit Card,Pune
+ORD5223,CUST553,2024-11-16,Home & Kitchen,3070.54,3,Debit Card,Delhi
+ORD5224,CUST544,2024-11-16,Clothing,3268.87,1,Credit Card,Mumbai
+ORD5225,CUST518,2024-11-16,Groceries,1012.03,1,Cash on Delivery,Bangalore
+ORD5226,CUST560,2024-11-17,Books,2425.08,1,Cash on Delivery,Chennai
+ORD5227,CUST529,2024-11-17,Books,2125.23,3,UPI,Delhi
+ORD5228,CUST595,2024-11-17,Sports,2886.02,3,UPI,Chennai
+ORD5229,CUST521,2024-11-17,Home & Kitchen,1699.49,3,Credit Card,Mumbai
+ORD5230,CUST558,2024-11-17,Beauty,2608.08,4,UPI,Mumbai
+ORD5231,CUST553,2024-11-18,Clothing,1239.86,1,Debit Card,Delhi
+ORD5232,CUST534,2024-11-18,Sports,3604.24,2,Cash on Delivery,Coimbatore
+ORD5233,CUST519,2024-11-18,Clothing,1445.64,4,Debit Card,Bangalore
+ORD5234,CUST576,2024-11-18,Electronics,1266.98,1,Debit Card,Coimbatore
+ORD5235,CUST587,2024-11-18,Books,2713.09,5,Credit Card,Coimbatore
+ORD5236,CUST633,2024-11-19,Clothing,1911.86,1,Debit Card,Bangalore
+ORD5237,CUST532,2024-11-19,Beauty,754.26,5,Debit Card,Delhi
+ORD5238,CUST618,2024-11-19,Home & Kitchen,904.19,5,UPI,Mumbai
+ORD5239,CUST643,2024-11-19,Books,1094.94,5,Debit Card,Coimbatore
+ORD5240,CUST549,2024-11-20,Clothing,2460.56,3,UPI,Mumbai
+ORD5241,CUST598,2024-11-20,Electronics,1964.7,1,Debit Card,Coimbatore
+ORD5242,CUST608,2024-11-20,Clothing,1000.27,1,Credit Card,Chennai
+ORD5243,CUST615,2024-11-20,Books,2391.8,4,Cash on Delivery,Mumbai
+ORD5244,CUST622,2024-11-20,Groceries,1627.9,3,UPI,Coimbatore
+ORD5245,CUST593,2024-11-21,Clothing,2481.07,1,UPI,Chennai
+ORD5246,CUST632,2024-11-21,Books,2779.08,1,Credit Card,Coimbatore
+ORD5247,CUST638,2024-11-21,Electronics,1037.54,2,Debit Card,Hyderabad
+ORD5248,CUST524,2024-11-21,Clothing,2560.08,3,UPI,Hyderabad
+ORD5249,CUST563,2024-11-21,Sports,848.81,1,Debit Card,Hyderabad
+ORD5250,CUST556,2024-11-22,Clothing,5340.95,4,Credit Card,Chennai
+ORD5251,CUST577,2024-11-22,Home & Kitchen,1378.2,4,Cash on Delivery,Mumbai
+ORD5252,CUST630,2024-11-22,Electronics,1601.58,2,UPI,Hyderabad
+ORD5253,CUST506,2024-11-22,Beauty,3466.6,1,Debit Card,Bangalore
+ORD5254,CUST621,2024-11-22,Beauty,2290.17,1,UPI,Chennai
+ORD5255,CUST605,2024-11-23,Sports,2501.17,3,Debit Card,Coimbatore
+ORD5256,CUST588,2024-11-23,Groceries,2229.69,5,UPI,Chennai
+ORD5257,CUST563,2024-11-23,Clothing,1805.74,5,Credit Card,Hyderabad
+ORD5258,CUST581,2024-11-23,Books,527.02,2,UPI,Hyderabad
+ORD5259,CUST592,2024-11-23,Books,2344.1,3,UPI,Bangalore
+ORD5260,CUST544,2024-11-24,Clothing,3253.73,3,Debit Card,Delhi
+ORD5261,CUST568,2024-11-24,Clothing,1736.68,1,Cash on Delivery,Hyderabad
+ORD5262,CUST614,2024-11-24,Beauty,301.45,1,Debit Card,Pune
+ORD5263,CUST635,2024-11-24,Beauty,1627.16,4,Credit Card,Mumbai
+ORD5264,CUST542,2024-11-25,Electronics,1347.52,1,Credit Card,Pune
+ORD5265,CUST531,2024-11-25,Sports,979.6,4,Debit Card,Mumbai
+ORD5266,CUST594,2024-11-25,Clothing,1474.81,4,Credit Card,Coimbatore
+ORD5267,CUST615,2024-11-25,Electronics,2652.13,1,Debit Card,Coimbatore
+ORD5268,CUST514,2024-11-25,Electronics,1592.63,1,Debit Card,Chennai
+ORD5269,CUST611,2024-11-26,Home & Kitchen,2920.6,1,UPI,Delhi
+ORD5270,CUST635,2024-11-26,Beauty,1387.41,5,Credit Card,Hyderabad
+ORD5271,CUST594,2024-11-26,Groceries,2951.6,2,Cash on Delivery,Bangalore
+ORD5272,CUST580,2024-11-26,Groceries,850.6,3,Credit Card,Pune
+ORD5273,CUST646,2024-11-26,Clothing,1177.39,1,Cash on Delivery,Chennai
+ORD5274,CUST640,2024-11-27,Clothing,608.88,5,Credit Card,Bangalore
+ORD5275,CUST524,2024-11-27,Sports,2024.99,1,Debit Card,Mumbai
+ORD5276,CUST526,2024-11-27,Groceries,1318.25,3,Cash on Delivery,Coimbatore
+ORD5277,CUST603,2024-11-27,Groceries,2356.61,4,Debit Card,Coimbatore
+ORD5278,CUST548,2024-11-27,Sports,1953.44,5,Debit Card,Coimbatore
+ORD5279,CUST638,2024-11-28,Sports,2327.65,2,UPI,Mumbai
+ORD5280,CUST501,2024-11-28,Groceries,2069.41,4,Credit Card,Coimbatore
+ORD5281,CUST645,2024-11-28,Clothing,2050.96,5,Cash on Delivery,Hyderabad
+ORD5282,CUST592,2024-11-28,Clothing,1562.34,5,Cash on Delivery,Pune
+ORD5283,CUST538,2024-11-28,Clothing,2144.96,1,UPI,Chennai
+ORD5284,CUST606,2024-11-29,Beauty,1333.67,2,UPI,Mumbai
+ORD5285,CUST532,2024-11-29,Home & Kitchen,177.93,1,Cash on Delivery,Chennai
+ORD5286,CUST622,2024-11-29,Sports,4727.01,3,UPI,Coimbatore
+ORD5287,CUST635,2024-11-29,Home & Kitchen,2518.31,4,Debit Card,Hyderabad
+ORD5288,CUST628,2024-11-30,Sports,1524.94,1,Cash on Delivery,Hyderabad
+ORD5289,CUST589,2024-11-30,Beauty,723.22,3,Cash on Delivery,Delhi
+ORD5290,CUST586,2024-11-30,Beauty,4759.71,3,UPI,Hyderabad
+ORD5291,CUST572,2024-11-30,Sports,931.5,5,Cash on Delivery,Delhi
+ORD5292,CUST536,2024-11-30,Books,3112.26,1,Credit Card,Pune
+ORD5293,CUST574,2024-12-01,Beauty,1391.11,1,Credit Card,Bangalore
+ORD5294,CUST576,2024-12-01,Sports,634.26,2,Debit Card,Pune
+ORD5295,CUST531,2024-12-01,Clothing,2943.41,1,Credit Card,Hyderabad
+ORD5296,CUST526,2024-12-01,Sports,457.76,2,UPI,Chennai
+ORD5297,CUST511,2024-12-01,Groceries,4002.76,4,UPI,Mumbai
+ORD5298,CUST610,2024-12-02,Clothing,1517.66,3,Credit Card,Bangalore
+ORD5299,CUST623,2024-12-02,Books,1985.11,2,Cash on Delivery,Mumbai
+ORD5300,CUST569,2024-12-02,Beauty,4494.9,3,Credit Card,Delhi
+ORD5301,CUST559,2024-12-02,Groceries,5602.11,3,Cash on Delivery,Delhi
+ORD5302,CUST506,2024-12-02,Home & Kitchen,3035.99,1,UPI,Hyderabad
+ORD5303,CUST599,2024-12-03,Books,589.74,2,Cash on Delivery,Hyderabad
+ORD5304,CUST603,2024-12-03,Groceries,3096.04,4,Cash on Delivery,Coimbatore
+ORD5305,CUST547,2024-12-03,Sports,1356.16,1,Cash on Delivery,Pune
+ORD5306,CUST550,2024-12-03,Clothing,2397.28,2,UPI,Pune
+ORD5307,CUST643,2024-12-03,Clothing,1511.73,3,Credit Card,Chennai
+ORD5308,CUST638,2024-12-04,Books,3470.39,4,Credit Card,Mumbai
+ORD5309,CUST584,2024-12-04,Home & Kitchen,1775.64,2,Cash on Delivery,Mumbai
+ORD5310,CUST646,2024-12-04,Clothing,3911.71,2,Debit Card,Mumbai
+ORD5311,CUST505,2024-12-04,Home & Kitchen,617.29,5,Debit Card,Mumbai
+ORD5312,CUST636,2024-12-05,Beauty,2240.97,4,Debit Card,Hyderabad
+ORD5313,CUST578,2024-12-05,Home & Kitchen,6040.18,1,Debit Card,Hyderabad
+ORD5314,CUST583,2024-12-05,Books,2058.05,4,Debit Card,Mumbai
+ORD5315,CUST628,2024-12-05,Home & Kitchen,3344.38,4,UPI,Pune
+ORD5316,CUST617,2024-12-05,Beauty,2713.25,3,Credit Card,Delhi
+ORD5317,CUST507,2024-12-06,Sports,1181.53,1,Cash on Delivery,Bangalore
+ORD5318,CUST622,2024-12-06,Home & Kitchen,1056.86,1,Credit Card,Pune
+ORD5319,CUST544,2024-12-06,Books,3405.33,1,Credit Card,Delhi
+ORD5320,CUST580,2024-12-06,Beauty,593.9,5,Cash on Delivery,Pune
+ORD5321,CUST532,2024-12-06,Beauty,1030.46,4,Cash on Delivery,Bangalore
+ORD5322,CUST533,2024-12-07,Electronics,2571.62,1,Debit Card,Mumbai
+ORD5323,CUST611,2024-12-07,Sports,2215.36,3,UPI,Bangalore
+ORD5324,CUST502,2024-12-07,Beauty,133.26,5,Debit Card,Bangalore
+ORD5325,CUST607,2024-12-07,Electronics,729.96,1,Debit Card,Coimbatore
+ORD5326,CUST631,2024-12-07,Clothing,1358.22,1,Cash on Delivery,Hyderabad
+ORD5327,CUST547,2024-12-08,Home & Kitchen,3144.6,1,Debit Card,Hyderabad
+ORD5328,CUST500,2024-12-08,Sports,1678.89,1,Cash on Delivery,Mumbai
+ORD5329,CUST587,2024-12-08,Home & Kitchen,3008.55,5,Cash on Delivery,Mumbai
+ORD5330,CUST524,2024-12-08,Groceries,1714.54,3,Debit Card,Bangalore
+ORD5331,CUST568,2024-12-08,Clothing,1714.62,5,Cash on Delivery,Bangalore
+ORD5332,CUST607,2024-12-09,Sports,2088.51,2,Debit Card,Chennai
+ORD5333,CUST585,2024-12-09,Clothing,850.13,1,Cash on Delivery,Bangalore
+ORD5334,CUST569,2024-12-09,Clothing,1329.18,3,Credit Card,Mumbai
+ORD5335,CUST564,2024-12-09,Clothing,3152.71,4,Cash on Delivery,Chennai
+ORD5336,CUST634,2024-12-10,Sports,3207.9,2,Credit Card,Bangalore
+ORD5337,CUST641,2024-12-10,Clothing,1439.74,4,Debit Card,Coimbatore
+ORD5338,CUST622,2024-12-10,Electronics,3190.11,3,Credit Card,Coimbatore
+ORD5339,CUST601,2024-12-10,Clothing,582.83,1,UPI,Mumbai
+ORD5340,CUST509,2024-12-10,Beauty,1868.21,1,UPI,Delhi
+ORD5341,CUST584,2024-12-11,Sports,4036.59,3,Debit Card,Chennai
+ORD5342,CUST547,2024-12-11,Electronics,2229.11,3,Cash on Delivery,Hyderabad
+ORD5343,CUST502,2024-12-11,Home & Kitchen,3254.47,3,Debit Card,Pune
+ORD5344,CUST515,2024-12-11,Electronics,1712.13,2,Debit Card,Hyderabad
+ORD5345,CUST551,2024-12-11,Sports,2186.01,1,Debit Card,Chennai
+ORD5346,CUST581,2024-12-12,Groceries,3797.62,5,Credit Card,Coimbatore
+ORD5347,CUST605,2024-12-12,Home & Kitchen,993.35,1,UPI,Coimbatore
+ORD5348,CUST541,2024-12-12,Electronics,948.75,1,Credit Card,Delhi
+ORD5349,CUST545,2024-12-12,Books,2687.45,2,Cash on Delivery,Chennai
+ORD5350,CUST574,2024-12-12,Electronics,3665.59,4,Credit Card,Coimbatore
+ORD5351,CUST515,2024-12-13,Groceries,506.33,4,Cash on Delivery,Chennai
+ORD5352,CUST627,2024-12-13,Groceries,564.17,4,UPI,Coimbatore
+ORD5353,CUST502,2024-12-13,Home & Kitchen,455.65,2,Debit Card,Delhi
+ORD5354,CUST615,2024-12-13,Groceries,4819.62,5,UPI,Delhi
+ORD5355,CUST540,2024-12-13,Electronics,1637.54,2,Cash on Delivery,Chennai
+ORD5356,CUST503,2024-12-14,Home & Kitchen,1557.99,5,UPI,Delhi
+ORD5357,CUST643,2024-12-14,Groceries,3022.89,2,Credit Card,Hyderabad
+ORD5358,CUST524,2024-12-14,Home & Kitchen,910.78,4,Debit Card,Mumbai
+ORD5359,CUST548,2024-12-14,Groceries,3003.73,1,Cash on Delivery,Delhi
+ORD5360,CUST521,2024-12-15,Home & Kitchen,716.28,1,Credit Card,Coimbatore
+ORD5361,CUST608,2024-12-15,Sports,421.47,4,Credit Card,Chennai
+ORD5362,CUST558,2024-12-15,Books,2309.55,4,UPI,Mumbai
+ORD5363,CUST550,2024-12-15,Groceries,3887.81,3,Cash on Delivery,Pune
+ORD5364,CUST637,2024-12-15,Sports,2415.49,1,UPI,Pune
+ORD5365,CUST505,2024-12-16,Beauty,443.3,5,UPI,Delhi
+ORD5366,CUST522,2024-12-16,Beauty,1788.93,1,UPI,Delhi
+ORD5367,CUST529,2024-12-16,Groceries,3288.5,1,Debit Card,Chennai
+ORD5368,CUST510,2024-12-16,Books,6261.3,5,Debit Card,Delhi
+ORD5369,CUST566,2024-12-16,Beauty,3625.73,4,Cash on Delivery,Mumbai
+ORD5370,CUST632,2024-12-17,Groceries,2511.38,1,Cash on Delivery,Chennai
+ORD5371,CUST598,2024-12-17,Beauty,4170.95,5,Debit Card,Mumbai
+ORD5372,CUST525,2024-12-17,Sports,2896.99,4,UPI,Pune
+ORD5373,CUST506,2024-12-17,Clothing,2566.71,3,UPI,Coimbatore
+ORD5374,CUST560,2024-12-17,Clothing,3319.95,4,Credit Card,Bangalore
+ORD5375,CUST599,2024-12-18,Home & Kitchen,2715.31,5,Credit Card,Pune
+ORD5376,CUST641,2024-12-18,Home & Kitchen,876.25,2,UPI,Hyderabad
+ORD5377,CUST548,2024-12-18,Sports,314.23,2,Debit Card,Chennai
+ORD5378,CUST575,2024-12-18,Clothing,667.7,3,UPI,Hyderabad
+ORD5379,CUST547,2024-12-18,Beauty,1712.38,2,Debit Card,Bangalore
+ORD5380,CUST607,2024-12-19,Home & Kitchen,1271.09,2,UPI,Mumbai
+ORD5381,CUST546,2024-12-19,Books,1131.89,1,Debit Card,Pune
+ORD5382,CUST614,2024-12-19,Home & Kitchen,1243.82,1,Cash on Delivery,Coimbatore
+ORD5383,CUST559,2024-12-19,Groceries,3144.88,4,Debit Card,Bangalore
+ORD5384,CUST570,2024-12-20,Groceries,1420.25,4,UPI,Coimbatore
+ORD5385,CUST525,2024-12-20,Sports,1279.18,5,UPI,Pune
+ORD5386,CUST588,2024-12-20,Clothing,2820.73,4,Cash on Delivery,Bangalore
+ORD5387,CUST582,2024-12-20,Home & Kitchen,2413.9,1,Debit Card,Bangalore
+ORD5388,CUST635,2024-12-20,Clothing,929.52,1,Cash on Delivery,Hyderabad
+ORD5389,CUST531,2024-12-21,Clothing,772.35,3,UPI,Coimbatore
+ORD5390,CUST529,2024-12-21,Electronics,2068.19,1,UPI,Pune
+ORD5391,CUST569,2024-12-21,Groceries,341.42,4,Credit Card,Bangalore
+ORD5392,CUST546,2024-12-21,Electronics,2048.89,2,Cash on Delivery,Chennai
+ORD5393,CUST505,2024-12-21,Groceries,477.98,5,Debit Card,Hyderabad
+ORD5394,CUST598,2024-12-22,Beauty,295.4,3,Credit Card,Mumbai
+ORD5395,CUST627,2024-12-22,Groceries,1485.52,1,Cash on Delivery,Hyderabad
+ORD5396,CUST534,2024-12-22,Sports,486.16,5,Credit Card,Chennai
+ORD5397,CUST508,2024-12-22,Electronics,1474.73,3,Credit Card,Hyderabad
+ORD5398,CUST600,2024-12-22,Home & Kitchen,1119.18,3,Cash on Delivery,Bangalore
+ORD5399,CUST617,2024-12-23,Beauty,1634.76,2,Cash on Delivery,Pune
+ORD5400,CUST605,2024-12-23,Electronics,1741.86,3,Credit Card,Hyderabad
+ORD5401,CUST553,2024-12-23,Groceries,2263.25,2,Cash on Delivery,Delhi
+ORD5402,CUST616,2024-12-23,Groceries,4415.05,5,UPI,Mumbai
+ORD5403,CUST591,2024-12-23,Books,476.72,1,Debit Card,Mumbai
+ORD5404,CUST508,2024-12-24,Electronics,1581.22,3,Debit Card,Mumbai
+ORD5405,CUST552,2024-12-24,Groceries,2365.95,1,Credit Card,Bangalore
+ORD5406,CUST509,2024-12-24,Electronics,10032.27,4,Cash on Delivery,Coimbatore
+ORD5407,CUST531,2024-12-24,Electronics,745.85,4,Debit Card,Coimbatore
+ORD5408,CUST633,2024-12-25,Home & Kitchen,1028.38,1,Debit Card,Coimbatore
+ORD5409,CUST520,2024-12-25,Clothing,858.45,4,Credit Card,Coimbatore
+ORD5410,CUST556,2024-12-25,Electronics,1186.41,5,Cash on Delivery,Coimbatore
+ORD5411,CUST594,2024-12-25,Beauty,2091.74,1,Cash on Delivery,Chennai
+ORD5412,CUST602,2024-12-25,Home & Kitchen,697.82,3,UPI,Mumbai
+ORD5413,CUST597,2024-12-26,Beauty,1774.17,4,Credit Card,Hyderabad
+ORD5414,CUST637,2024-12-26,Beauty,801.62,3,Debit Card,Pune
+ORD5415,CUST618,2024-12-26,Beauty,706.77,5,UPI,Bangalore
+ORD5416,CUST560,2024-12-26,Groceries,1194.05,2,Cash on Delivery,Chennai
+ORD5417,CUST605,2024-12-26,Sports,1070.3,1,UPI,Mumbai
+ORD5418,CUST510,2024-12-27,Books,2528.48,4,Debit Card,Hyderabad
+ORD5419,CUST524,2024-12-27,Sports,1083.19,1,UPI,Chennai
+ORD5420,CUST627,2024-12-27,Beauty,1736.49,1,UPI,Chennai
+ORD5421,CUST585,2024-12-27,Electronics,1962.53,2,UPI,Pune
+ORD5422,CUST543,2024-12-27,Electronics,1812.02,4,Debit Card,Hyderabad
+ORD5423,CUST537,2024-12-28,Sports,553.62,4,Cash on Delivery,Hyderabad
+ORD5424,CUST617,2024-12-28,Clothing,279.69,1,Cash on Delivery,Delhi
+ORD5425,CUST586,2024-12-28,Electronics,2531.7,1,UPI,Coimbatore
+ORD5426,CUST533,2024-12-28,Groceries,2615.67,2,Credit Card,Hyderabad
+ORD5427,CUST540,2024-12-28,Sports,2085.07,2,Cash on Delivery,Delhi
+ORD5428,CUST585,2024-12-29,Beauty,388.66,5,UPI,Pune
+ORD5429,CUST517,2024-12-29,Groceries,3136.89,4,UPI,Hyderabad
+ORD5430,CUST624,2024-12-29,Sports,2915.25,4,Cash on Delivery,Mumbai
+ORD5431,CUST586,2024-12-29,Clothing,1177.8,1,UPI,Mumbai
+ORD5432,CUST514,2024-12-30,Books,2944.18,1,Debit Card,Bangalore
+ORD5433,CUST600,2024-12-30,Books,1450.1,5,Cash on Delivery,Delhi
+ORD5434,CUST559,2024-12-30,Clothing,2764.62,2,Cash on Delivery,Chennai
+ORD5435,CUST576,2024-12-30,Sports,1405.2,1,Cash on Delivery,Mumbai
+ORD5436,CUST574,2024-12-30,Clothing,425.12,5,Debit Card,Pune
+ORD5437,CUST523,2024-12-31,Clothing,1100.03,5,UPI,Hyderabad
+ORD5438,CUST608,2024-12-31,Books,854.11,1,Credit Card,Pune
+ORD5439,CUST541,2024-12-31,Home & Kitchen,555.99,4,Debit Card,Mumbai
+ORD5440,CUST633,2024-12-31,Electronics,1856.19,2,UPI,Coimbatore
+ORD5441,CUST535,2024-12-31,Books,3607.76,4,Credit Card,Mumbai
+ORD5442,CUST528,2025-01-01,Sports,2812.48,1,Debit Card,Chennai
+ORD5443,CUST575,2025-01-01,Electronics,3675.58,5,Debit Card,Bangalore
+ORD5444,CUST532,2025-01-01,Electronics,2962.34,3,Debit Card,Coimbatore
+ORD5445,CUST558,2025-01-01,Books,3566.95,1,Cash on Delivery,Pune
+ORD5446,CUST533,2025-01-01,Books,1972.96,4,Cash on Delivery,Hyderabad
+ORD5447,CUST527,2025-01-02,Books,3280.51,3,Credit Card,Chennai
+ORD5448,CUST621,2025-01-02,Clothing,4308.6,5,Debit Card,Chennai
+ORD5449,CUST567,2025-01-02,Beauty,1943.75,1,UPI,Mumbai
+ORD5450,CUST609,2025-01-02,Clothing,240.39,2,UPI,Pune
+ORD5451,CUST557,2025-01-02,Groceries,2185.88,5,UPI,Mumbai
+ORD5452,CUST613,2025-01-03,Beauty,1991.44,1,Credit Card,Mumbai
+ORD5453,CUST592,2025-01-03,Books,1379.53,5,Debit Card,Chennai
+ORD5454,CUST637,2025-01-03,Sports,4402.57,1,Debit Card,Mumbai
+ORD5455,CUST606,2025-01-03,Home & Kitchen,368.29,5,UPI,Bangalore
+ORD5456,CUST579,2025-01-04,Books,1315.94,2,Cash on Delivery,Coimbatore
+ORD5457,CUST606,2025-01-04,Home & Kitchen,2887.72,1,Cash on Delivery,Delhi
+ORD5458,CUST616,2025-01-04,Clothing,1632.87,4,Credit Card,Coimbatore
+ORD5459,CUST613,2025-01-04,Groceries,902.84,2,Cash on Delivery,Coimbatore
+ORD5460,CUST540,2025-01-04,Books,1401.37,2,Credit Card,Mumbai
+ORD5461,CUST507,2025-01-05,Groceries,1788.92,5,Debit Card,Coimbatore
+ORD5462,CUST596,2025-01-05,Beauty,194.0,2,Credit Card,Coimbatore
+ORD5463,CUST566,2025-01-05,Clothing,1484.54,1,Debit Card,Coimbatore
+ORD5464,CUST639,2025-01-05,Home & Kitchen,352.59,3,Credit Card,Bangalore
+ORD5465,CUST506,2025-01-05,Beauty,2828.63,3,Debit Card,Mumbai
+ORD5466,CUST582,2025-01-06,Electronics,955.86,5,UPI,Bangalore
+ORD5467,CUST525,2025-01-06,Clothing,1552.58,5,UPI,Chennai
+ORD5468,CUST639,2025-01-06,Groceries,1554.98,2,UPI,Hyderabad
+ORD5469,CUST589,2025-01-06,Books,1336.76,1,Credit Card,Mumbai
+ORD5470,CUST550,2025-01-06,Groceries,1925.02,5,UPI,Mumbai
+ORD5471,CUST550,2025-01-07,Beauty,1018.2,5,Debit Card,Chennai
+ORD5472,CUST608,2025-01-07,Books,1306.66,5,Cash on Delivery,Chennai
+ORD5473,CUST513,2025-01-07,Electronics,2107.52,5,Debit Card,Coimbatore
+ORD5474,CUST563,2025-01-07,Sports,1667.24,5,Debit Card,Hyderabad
+ORD5475,CUST633,2025-01-07,Books,2953.25,2,Credit Card,Hyderabad
+ORD5476,CUST543,2025-01-08,Beauty,1519.21,4,Cash on Delivery,Pune
+ORD5477,CUST555,2025-01-08,Electronics,3340.46,2,Credit Card,Hyderabad
+ORD5478,CUST629,2025-01-08,Books,1179.45,5,Credit Card,Pune
+ORD5479,CUST585,2025-01-08,Books,1358.37,5,UPI,Hyderabad
+ORD5480,CUST646,2025-01-09,Books,4141.84,4,Cash on Delivery,Bangalore
+ORD5481,CUST580,2025-01-09,Beauty,824.91,3,Debit Card,Bangalore
+ORD5482,CUST555,2025-01-09,Home & Kitchen,1002.82,2,UPI,Delhi
+ORD5483,CUST632,2025-01-09,Beauty,587.79,2,UPI,Coimbatore
+ORD5484,CUST583,2025-01-09,Home & Kitchen,513.9,1,Cash on Delivery,Chennai
+ORD5485,CUST520,2025-01-10,Sports,3139.22,5,Cash on Delivery,Coimbatore
+ORD5486,CUST555,2025-01-10,Electronics,1483.43,3,UPI,Pune
+ORD5487,CUST602,2025-01-10,Electronics,1277.52,2,Credit Card,Delhi
+ORD5488,CUST539,2025-01-10,Home & Kitchen,2953.79,5,UPI,Pune
+ORD5489,CUST513,2025-01-10,Sports,2304.16,2,UPI,Coimbatore
+ORD5490,CUST518,2025-01-11,Sports,798.55,5,Debit Card,Chennai
+ORD5491,CUST537,2025-01-11,Groceries,418.07,5,Debit Card,Delhi
+ORD5492,CUST506,2025-01-11,Clothing,2507.12,4,Debit Card,Bangalore
+ORD5493,CUST502,2025-01-11,Beauty,1385.21,4,Debit Card,Chennai
+ORD5494,CUST615,2025-01-11,Books,3864.2,5,Credit Card,Mumbai
+ORD5495,CUST583,2025-01-12,Sports,3800.81,1,UPI,Pune
+ORD5496,CUST531,2025-01-12,Home & Kitchen,1097.95,2,Cash on Delivery,Mumbai
+ORD5497,CUST546,2025-01-12,Beauty,1396.6,3,Credit Card,Chennai
+ORD5498,CUST618,2025-01-12,Clothing,374.45,2,UPI,Delhi
+ORD5499,CUST640,2025-01-12,Groceries,5044.72,5,Debit Card,Mumbai
+ORD5500,CUST641,2025-01-13,Books,3336.24,5,Cash on Delivery,Delhi
+ORD5501,CUST599,2025-01-13,Electronics,307.15,3,Cash on Delivery,Pune
+ORD5502,CUST643,2025-01-13,Groceries,1436.21,5,UPI,Chennai
+ORD5503,CUST515,2025-01-13,Clothing,840.49,5,Cash on Delivery,Bangalore
+ORD5504,CUST644,2025-01-14,Electronics,430.99,4,Debit Card,Chennai
+ORD5505,CUST591,2025-01-14,Books,7272.31,1,Credit Card,Hyderabad
+ORD5506,CUST512,2025-01-14,Home & Kitchen,844.8,3,UPI,Bangalore
+ORD5507,CUST625,2025-01-14,Groceries,1194.69,4,Cash on Delivery,Pune
+ORD5508,CUST561,2025-01-14,Groceries,3119.4,5,Cash on Delivery,Pune
+ORD5509,CUST634,2025-01-15,Books,728.91,4,Debit Card,Chennai
+ORD5510,CUST513,2025-01-15,Clothing,2385.09,5,Cash on Delivery,Chennai
+ORD5511,CUST502,2025-01-15,Sports,1100.55,1,Debit Card,Pune
+ORD5512,CUST508,2025-01-15,Books,1872.36,4,Debit Card,Bangalore
+ORD5513,CUST583,2025-01-15,Beauty,965.1,2,Credit Card,Mumbai
+ORD5514,CUST596,2025-01-16,Sports,2756.57,4,Debit Card,Coimbatore
+ORD5515,CUST618,2025-01-16,Sports,2515.05,1,Debit Card,Pune
+ORD5516,CUST628,2025-01-16,Electronics,2734.28,5,Credit Card,Hyderabad
+ORD5517,CUST568,2025-01-16,Sports,1002.18,5,Cash on Delivery,Coimbatore
+ORD5518,CUST512,2025-01-16,Beauty,1257.49,1,Cash on Delivery,Delhi
+ORD5519,CUST642,2025-01-17,Clothing,1859.63,1,Credit Card,Bangalore
+ORD5520,CUST605,2025-01-17,Sports,303.23,2,Cash on Delivery,Mumbai
+ORD5521,CUST612,2025-01-17,Clothing,824.74,2,Credit Card,Coimbatore
+ORD5522,CUST609,2025-01-17,Beauty,362.11,4,UPI,Coimbatore
+ORD5523,CUST584,2025-01-17,Home & Kitchen,1092.01,1,Cash on Delivery,Hyderabad
+ORD5524,CUST583,2025-01-18,Groceries,4782.64,1,Credit Card,Hyderabad
+ORD5525,CUST552,2025-01-18,Home & Kitchen,2463.77,5,Cash on Delivery,Mumbai
+ORD5526,CUST520,2025-01-18,Electronics,1724.53,5,UPI,Bangalore
+ORD5527,CUST582,2025-01-18,Sports,3194.77,3,Cash on Delivery,Hyderabad
+ORD5528,CUST648,2025-01-19,Electronics,1694.6,3,Credit Card,Bangalore
+ORD5529,CUST627,2025-01-19,Books,4394.01,5,Cash on Delivery,Chennai
+ORD5530,CUST538,2025-01-19,Groceries,3510.07,1,Cash on Delivery,Hyderabad
+ORD5531,CUST586,2025-01-19,Home & Kitchen,1710.28,3,Debit Card,Coimbatore
+ORD5532,CUST532,2025-01-19,Groceries,3237.45,2,Cash on Delivery,Bangalore
+ORD5533,CUST510,2025-01-20,Electronics,969.07,2,Debit Card,Delhi
+ORD5534,CUST630,2025-01-20,Clothing,5045.92,4,Cash on Delivery,Coimbatore
+ORD5535,CUST588,2025-01-20,Groceries,3081.83,1,Cash on Delivery,Hyderabad
+ORD5536,CUST559,2025-01-20,Books,1325.19,4,Cash on Delivery,Hyderabad
+ORD5537,CUST533,2025-01-20,Beauty,1654.55,3,Credit Card,Chennai
+ORD5538,CUST589,2025-01-21,Beauty,2262.67,5,Cash on Delivery,Bangalore
+ORD5539,CUST583,2025-01-21,Sports,1574.27,4,Credit Card,Chennai
+ORD5540,CUST557,2025-01-21,Home & Kitchen,3002.38,5,Credit Card,Pune
+ORD5541,CUST601,2025-01-21,Groceries,5605.9,3,UPI,Bangalore
+ORD5542,CUST600,2025-01-21,Sports,820.52,3,Cash on Delivery,Hyderabad
+ORD5543,CUST638,2025-01-22,Home & Kitchen,2056.37,2,Cash on Delivery,Bangalore
+ORD5544,CUST560,2025-01-22,Books,1318.6,2,Cash on Delivery,Chennai
+ORD5545,CUST508,2025-01-22,Sports,2098.46,3,UPI,Pune
+ORD5546,CUST528,2025-01-22,Books,1702.26,3,UPI,Mumbai
+ORD5547,CUST616,2025-01-22,Books,2771.4,5,UPI,Coimbatore
+ORD5548,CUST569,2025-01-23,Beauty,504.2,2,Cash on Delivery,Chennai
+ORD5549,CUST640,2025-01-23,Electronics,1022.0,3,Cash on Delivery,Chennai
+ORD5550,CUST636,2025-01-23,Books,520.83,3,Credit Card,Pune
+ORD5551,CUST609,2025-01-23,Sports,1324.35,3,Debit Card,Bangalore
+ORD5552,CUST511,2025-01-24,Home & Kitchen,1084.04,1,Cash on Delivery,Pune
+ORD5553,CUST635,2025-01-24,Sports,424.07,4,Credit Card,Coimbatore
+ORD5554,CUST502,2025-01-24,Books,1019.84,1,UPI,Hyderabad
+ORD5555,CUST502,2025-01-24,Groceries,2313.37,5,UPI,Delhi
+ORD5556,CUST563,2025-01-24,Home & Kitchen,659.86,3,Credit Card,Delhi
+ORD5557,CUST584,2025-01-25,Home & Kitchen,630.04,2,Debit Card,Hyderabad
+ORD5558,CUST524,2025-01-25,Electronics,982.93,2,Credit Card,Delhi
+ORD5559,CUST600,2025-01-25,Home & Kitchen,1126.11,5,Cash on Delivery,Mumbai
+ORD5560,CUST638,2025-01-25,Clothing,546.1,3,Credit Card,Delhi
+ORD5561,CUST644,2025-01-25,Books,7016.25,1,Debit Card,Coimbatore
+ORD5562,CUST637,2025-01-26,Home & Kitchen,3490.62,4,Cash on Delivery,Hyderabad
+ORD5563,CUST574,2025-01-26,Groceries,2132.43,3,Cash on Delivery,Chennai
+ORD5564,CUST573,2025-01-26,Books,2819.14,3,Cash on Delivery,Bangalore
+ORD5565,CUST509,2025-01-26,Clothing,4805.18,1,UPI,Pune
+ORD5566,CUST597,2025-01-26,Clothing,1136.79,2,Credit Card,Chennai
+ORD5567,CUST523,2025-01-27,Beauty,1103.28,4,Cash on Delivery,Mumbai
+ORD5568,CUST601,2025-01-27,Books,1388.59,4,UPI,Chennai
+ORD5569,CUST533,2025-01-27,Books,3226.42,2,UPI,Coimbatore
+ORD5570,CUST629,2025-01-27,Groceries,2297.91,1,Credit Card,Hyderabad
+ORD5571,CUST623,2025-01-27,Electronics,981.47,4,UPI,Mumbai
+ORD5572,CUST561,2025-01-28,Beauty,976.4,4,Credit Card,Mumbai
+ORD5573,CUST504,2025-01-28,Sports,1460.8,5,Debit Card,Coimbatore
+ORD5574,CUST613,2025-01-28,Beauty,452.31,3,Debit Card,Coimbatore
+ORD5575,CUST583,2025-01-28,Clothing,1366.45,1,Credit Card,Mumbai
+ORD5576,CUST504,2025-01-29,Home & Kitchen,1223.72,1,Credit Card,Delhi
+ORD5577,CUST638,2025-01-29,Books,749.84,2,Cash on Delivery,Pune
+ORD5578,CUST620,2025-01-29,Groceries,1388.38,4,UPI,Hyderabad
+ORD5579,CUST607,2025-01-29,Sports,2734.76,2,Cash on Delivery,Chennai
+ORD5580,CUST533,2025-01-29,Books,5570.15,3,UPI,Chennai
+ORD5581,CUST514,2025-01-30,Home & Kitchen,735.97,3,Credit Card,Coimbatore
+ORD5582,CUST592,2025-01-30,Clothing,3859.21,5,Credit Card,Mumbai
+ORD5583,CUST518,2025-01-30,Beauty,825.07,2,Debit Card,Mumbai
+ORD5584,CUST503,2025-01-30,Beauty,1112.8,3,Debit Card,Bangalore
+ORD5585,CUST643,2025-01-30,Books,2055.2,5,Credit Card,Hyderabad
+ORD5586,CUST532,2025-01-31,Electronics,582.78,3,UPI,Mumbai
+ORD5587,CUST578,2025-01-31,Home & Kitchen,1228.25,1,Cash on Delivery,Hyderabad
+ORD5588,CUST627,2025-01-31,Clothing,2584.72,1,Cash on Delivery,Delhi
+ORD5589,CUST559,2025-01-31,Electronics,992.69,5,UPI,Pune
+ORD5590,CUST525,2025-01-31,Books,2577.89,2,UPI,Bangalore
+ORD5591,CUST604,2025-02-01,Beauty,1574.82,1,UPI,Hyderabad
+ORD5592,CUST641,2025-02-01,Electronics,1753.98,2,Cash on Delivery,Delhi
+ORD5593,CUST519,2025-02-01,Home & Kitchen,3124.04,5,Debit Card,Bangalore
+ORD5594,CUST588,2025-02-01,Beauty,568.7,4,Credit Card,Delhi
+ORD5595,CUST570,2025-02-01,Groceries,1027.93,1,UPI,Delhi
+ORD5596,CUST591,2025-02-02,Home & Kitchen,597.72,5,Cash on Delivery,Pune
+ORD5597,CUST517,2025-02-02,Clothing,1296.21,4,Debit Card,Chennai
+ORD5598,CUST550,2025-02-02,Home & Kitchen,1752.87,2,Credit Card,Delhi
+ORD5599,CUST615,2025-02-02,Groceries,1218.77,1,Debit Card,Hyderabad
+ORD5600,CUST502,2025-02-03,Books,2559.21,5,Credit Card,Hyderabad
+ORD5601,CUST605,2025-02-03,Sports,1379.03,1,UPI,Bangalore
+ORD5602,CUST528,2025-02-03,Books,1435.38,2,UPI,Mumbai
+ORD5603,CUST607,2025-02-03,Home & Kitchen,1879.45,4,Credit Card,Bangalore
+ORD5604,CUST615,2025-02-03,Groceries,498.59,3,UPI,Pune
+ORD5605,CUST596,2025-02-04,Books,229.02,2,Cash on Delivery,Mumbai
+ORD5606,CUST618,2025-02-04,Groceries,3774.23,3,Debit Card,Delhi
+ORD5607,CUST591,2025-02-04,Beauty,1127.72,3,UPI,Delhi
+ORD5608,CUST591,2025-02-04,Sports,746.92,3,Cash on Delivery,Chennai
+ORD5609,CUST555,2025-02-04,Sports,2855.84,2,Debit Card,Mumbai
+ORD5610,CUST620,2025-02-05,Sports,1032.12,4,Debit Card,Bangalore
+ORD5611,CUST576,2025-02-05,Sports,1380.27,2,Credit Card,Pune
+ORD5612,CUST562,2025-02-05,Books,2704.78,3,UPI,Bangalore
+ORD5613,CUST587,2025-02-05,Sports,3138.51,5,Cash on Delivery,Pune
+ORD5614,CUST570,2025-02-05,Groceries,1373.42,2,Debit Card,Hyderabad
+ORD5615,CUST641,2025-02-06,Groceries,2155.6,4,UPI,Mumbai
+ORD5616,CUST557,2025-02-06,Beauty,1942.26,1,Debit Card,Chennai
+ORD5617,CUST541,2025-02-06,Sports,454.34,2,Debit Card,Bangalore
+ORD5618,CUST542,2025-02-06,Groceries,3566.89,5,Cash on Delivery,Hyderabad
+ORD5619,CUST513,2025-02-06,Electronics,1469.08,5,UPI,Mumbai
+ORD5620,CUST634,2025-02-07,Home & Kitchen,4487.13,4,Debit Card,Coimbatore
+ORD5621,CUST608,2025-02-07,Electronics,2658.4,1,UPI,Coimbatore
+ORD5622,CUST545,2025-02-07,Groceries,3246.9,2,Debit Card,Mumbai
+ORD5623,CUST573,2025-02-07,Clothing,1897.38,4,UPI,Mumbai
+ORD5624,CUST507,2025-02-08,Groceries,782.24,5,Cash on Delivery,Coimbatore
+ORD5625,CUST572,2025-02-08,Home & Kitchen,1631.93,5,Credit Card,Hyderabad
+ORD5626,CUST576,2025-02-08,Sports,895.24,3,Debit Card,Mumbai
+ORD5627,CUST560,2025-02-08,Electronics,1059.21,5,Credit Card,Mumbai
+ORD5628,CUST614,2025-02-08,Clothing,1084.18,2,Cash on Delivery,Bangalore
+ORD5629,CUST627,2025-02-09,Electronics,2486.24,1,Debit Card,Chennai
+ORD5630,CUST520,2025-02-09,Clothing,3741.39,1,Credit Card,Mumbai
+ORD5631,CUST504,2025-02-09,Electronics,3538.75,5,Debit Card,Hyderabad
+ORD5632,CUST627,2025-02-09,Books,6501.57,5,Cash on Delivery,Delhi
+ORD5633,CUST559,2025-02-09,Beauty,1082.63,1,Debit Card,Hyderabad
+ORD5634,CUST552,2025-02-10,Groceries,1328.98,1,Cash on Delivery,Chennai
+ORD5635,CUST635,2025-02-10,Electronics,1516.27,3,UPI,Mumbai
+ORD5636,CUST519,2025-02-10,Groceries,2513.88,5,Cash on Delivery,Delhi
+ORD5637,CUST509,2025-02-10,Home & Kitchen,2902.0,1,Cash on Delivery,Delhi
+ORD5638,CUST560,2025-02-10,Electronics,2193.23,3,Debit Card,Hyderabad
+ORD5639,CUST638,2025-02-11,Electronics,2594.86,2,UPI,Hyderabad
+ORD5640,CUST522,2025-02-11,Clothing,911.14,3,Credit Card,Bangalore
+ORD5641,CUST597,2025-02-11,Clothing,666.44,3,UPI,Delhi
+ORD5642,CUST549,2025-02-11,Sports,1591.43,2,Cash on Delivery,Delhi
+ORD5643,CUST552,2025-02-11,Sports,1980.68,5,UPI,Coimbatore
+ORD5644,CUST608,2025-02-12,Home & Kitchen,3241.12,1,UPI,Chennai
+ORD5645,CUST583,2025-02-12,Groceries,1618.71,2,Credit Card,Chennai
+ORD5646,CUST649,2025-02-12,Groceries,1154.71,5,Debit Card,Delhi
+ORD5647,CUST580,2025-02-12,Sports,3739.24,5,Debit Card,Hyderabad
+ORD5648,CUST577,2025-02-13,Home & Kitchen,1051.97,4,Cash on Delivery,Coimbatore
+ORD5649,CUST506,2025-02-13,Home & Kitchen,1555.68,4,Debit Card,Coimbatore
+ORD5650,CUST530,2025-02-13,Clothing,755.8,2,Credit Card,Delhi
+ORD5651,CUST559,2025-02-13,Sports,1429.92,2,UPI,Delhi
+ORD5652,CUST639,2025-02-13,Beauty,1458.07,5,Credit Card,Delhi
+ORD5653,CUST616,2025-02-14,Home & Kitchen,1654.75,5,UPI,Hyderabad
+ORD5654,CUST514,2025-02-14,Home & Kitchen,596.75,3,Debit Card,Coimbatore
+ORD5655,CUST529,2025-02-14,Books,1323.57,3,Cash on Delivery,Delhi
+ORD5656,CUST616,2025-02-14,Clothing,2083.81,4,Cash on Delivery,Delhi
+ORD5657,CUST648,2025-02-14,Clothing,2828.21,4,Debit Card,Hyderabad
+ORD5658,CUST551,2025-02-15,Electronics,2548.97,1,UPI,Mumbai
+ORD5659,CUST621,2025-02-15,Clothing,1907.99,3,Debit Card,Mumbai
+ORD5660,CUST586,2025-02-15,Sports,1579.19,1,UPI,Delhi
+ORD5661,CUST583,2025-02-15,Books,1913.65,2,Credit Card,Pune
+ORD5662,CUST643,2025-02-15,Groceries,3290.98,5,Credit Card,Chennai
+ORD5663,CUST635,2025-02-16,Groceries,2726.32,5,Cash on Delivery,Delhi
+ORD5664,CUST540,2025-02-16,Groceries,963.69,5,Cash on Delivery,Pune
+ORD5665,CUST540,2025-02-16,Groceries,2487.36,2,Debit Card,Mumbai
+ORD5666,CUST582,2025-02-16,Clothing,459.63,2,UPI,Chennai
+ORD5667,CUST505,2025-02-16,Home & Kitchen,1829.39,3,UPI,Pune
+ORD5668,CUST531,2025-02-17,Sports,3124.46,5,Debit Card,Pune
+ORD5669,CUST548,2025-02-17,Books,654.47,3,Credit Card,Mumbai
+ORD5670,CUST505,2025-02-17,Beauty,1254.4,3,Cash on Delivery,Delhi
+ORD5671,CUST634,2025-02-17,Groceries,1115.38,2,Credit Card,Coimbatore
+ORD5672,CUST594,2025-02-18,Electronics,1652.01,4,Cash on Delivery,Chennai
+ORD5673,CUST526,2025-02-18,Books,771.02,2,Debit Card,Coimbatore
+ORD5674,CUST508,2025-02-18,Books,2871.5,5,Credit Card,Delhi
+ORD5675,CUST547,2025-02-18,Clothing,1548.97,4,Debit Card,Delhi
+ORD5676,CUST561,2025-02-18,Home & Kitchen,2523.0,5,UPI,Mumbai
+ORD5677,CUST603,2025-02-19,Books,2452.48,4,UPI,Hyderabad
+ORD5678,CUST621,2025-02-19,Electronics,1512.23,3,Debit Card,Coimbatore
+ORD5679,CUST552,2025-02-19,Electronics,2543.13,5,Cash on Delivery,Coimbatore
+ORD5680,CUST532,2025-02-19,Electronics,1730.96,3,UPI,Pune
+ORD5681,CUST591,2025-02-19,Electronics,927.92,4,Debit Card,Hyderabad
+ORD5682,CUST551,2025-02-20,Sports,1343.47,5,UPI,Bangalore
+ORD5683,CUST583,2025-02-20,Books,2061.37,5,Credit Card,Coimbatore
+ORD5684,CUST563,2025-02-20,Electronics,3468.14,3,Cash on Delivery,Bangalore
+ORD5685,CUST602,2025-02-20,Sports,377.23,3,UPI,Mumbai
+ORD5686,CUST635,2025-02-20,Home & Kitchen,2163.77,2,Cash on Delivery,Hyderabad
+ORD5687,CUST593,2025-02-21,Clothing,370.94,2,UPI,Pune
+ORD5688,CUST573,2025-02-21,Clothing,521.59,1,Credit Card,Delhi
+ORD5689,CUST501,2025-02-21,Books,3328.56,4,Debit Card,Bangalore
+ORD5690,CUST551,2025-02-21,Sports,3498.09,5,Cash on Delivery,Hyderabad
+ORD5691,CUST547,2025-02-21,Books,2271.99,3,Credit Card,Pune
+ORD5692,CUST640,2025-02-22,Electronics,1332.04,5,Credit Card,Bangalore
+ORD5693,CUST579,2025-02-22,Clothing,568.73,5,UPI,Coimbatore
+ORD5694,CUST614,2025-02-22,Electronics,1691.35,2,Credit Card,Delhi
+ORD5695,CUST555,2025-02-22,Clothing,1348.01,5,UPI,Hyderabad
+ORD5696,CUST591,2025-02-23,Clothing,2543.79,2,Credit Card,Pune
+ORD5697,CUST511,2025-02-23,Sports,2498.27,4,UPI,Hyderabad
+ORD5698,CUST600,2025-02-23,Books,2191.59,5,Cash on Delivery,Pune
+ORD5699,CUST638,2025-02-23,Sports,3719.92,5,Debit Card,Pune

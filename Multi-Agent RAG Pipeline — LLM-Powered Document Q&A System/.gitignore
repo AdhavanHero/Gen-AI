@@ -1,0 +1,22 @@
+# Environment / secrets
+.env
+*.key
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Langflow local data
+chroma_db/
+reports/*.pdf
+langflow-*.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/

@@ -1,0 +1,501 @@
+patient_id,age,gender,diagnosis,treatment,treatment_cost,length_of_stay_days,comorbidities_count,outcome,readmitted_30days,admission_date
+P1000,52,Female,Asthma,Physiotherapy,2568.4,5,1,Recovered,0,2025-01-01
+P1001,93,Female,Asthma,Medication B,10728.41,4,2,Recovered,0,2025-01-01
+P1002,15,Female,Hypertension,Medication A,3832.93,9,3,Recovered,0,2025-01-01
+P1003,72,Male,Migraine,Observation,8458.24,4,1,Recovered,0,2025-01-01
+P1004,61,Female,Diabetes,Surgery,8316.93,8,2,Recovered,0,2025-01-02
+P1005,21,Male,Hypertension,Medication B,8605.43,3,0,Recovered,0,2025-01-02
+P1006,83,Female,Hypertension,Surgery,4962.92,9,0,Recovered,0,2025-01-02
+P1007,87,Female,Diabetes,Medication B,10612.44,9,0,Recovered,0,2025-01-02
+P1008,75,Female,Cardiac Arrhythmia,Medication B,75770.88,30,0,Recovered,0,2025-01-03
+P1009,75,Male,Pneumonia,Medication C,3390.93,6,0,Recovered,0,2025-01-03
+P1010,88,Female,Asthma,Medication A,8934.49,4,1,Referred,0,2025-01-03
+P1011,24,Female,Diabetes,Surgery,8845.13,7,0,Recovered,0,2025-01-03
+P1012,3,Female,Hypertension,Surgery,11425.73,5,1,Improved,0,2025-01-04
+P1013,22,Female,Diabetes,Medication C,8711.02,3,0,Recovered,0,2025-01-04
+P1014,53,Male,Migraine,Observation,1926.79,6,1,Readmitted,0,2025-01-04
+P1015,2,Female,Diabetes,Observation,13569.28,6,1,Recovered,0,2025-01-04
+P1016,88,Male,Asthma,Medication A,12610.41,6,3,Referred,0,2025-01-05
+P1017,30,Male,Anemia,Medication A,6202.99,4,2,Improved,0,2025-01-05
+P1018,38,Male,Asthma,Physiotherapy,6784.03,5,2,Recovered,0,2025-01-05
+P1019,2,Male,Migraine,Medication C,5761.72,3,0,Readmitted,0,2025-01-05
+P1020,64,Male,Hypertension,Observation,13278.81,5,2,Improved,0,2025-01-06
+P1021,60,Male,Fracture,Medication B,7338.82,7,1,Recovered,0,2025-01-06
+P1022,21,Female,Asthma,Surgery,6534.39,5,1,Stable,0,2025-01-06
+P1023,33,Male,Pneumonia,Medication A,13602.14,4,1,Readmitted,0,2025-01-06
+P1024,76,Male,Diabetes,Surgery,14757.57,4,2,Improved,0,2025-01-07
+P1025,58,Male,Diabetes,Surgery,2762.42,5,0,Recovered,0,2025-01-07
+P1026,22,Female,Diabetes,Physiotherapy,13096.69,10,1,Stable,0,2025-01-07
+P1027,89,Female,Pneumonia,Observation,1402.73,6,1,Improved,0,2025-01-07
+P1028,49,Male,Fracture,Medication A,6605.39,4,3,Readmitted,0,2025-01-08
+P1029,91,Female,Pneumonia,Surgery,7831.19,8,0,Improved,0,2025-01-08
+P1030,59,Male,Diabetes,Medication A,15967.59,8,2,Recovered,0,2025-01-08
+P1031,42,Male,Migraine,Medication B,11928.15,7,3,Readmitted,0,2025-01-08
+P1032,92,Female,Hypertension,Physiotherapy,2375.42,4,1,Recovered,0,2025-01-09
+P1033,60,Male,Hypertension,Medication B,8867.15,4,0,Recovered,0,2025-01-09
+P1034,80,Female,Diabetes,Medication A,18888.07,8,1,Improved,0,2025-01-09
+P1035,15,Female,Pneumonia,Medication A,9700.87,6,0,Improved,0,2025-01-09
+P1036,62,Male,Diabetes,Observation,6746.21,7,1,Recovered,0,2025-01-10
+P1037,62,Male,Asthma,Surgery,15910.52,5,2,Stable,0,2025-01-10
+P1038,47,Female,Fracture,Surgery,8650.34,6,1,Recovered,1,2025-01-10
+P1039,62,Male,Diabetes,Medication B,60060.12,27,1,Recovered,1,2025-01-10
+P1040,51,Male,Asthma,Physiotherapy,2920.93,1,1,Stable,0,2025-01-11
+P1041,55,Male,Hypertension,Medication C,7542.41,10,1,Recovered,0,2025-01-11
+P1042,64,Female,Hypertension,Surgery,22823.5,7,0,Recovered,0,2025-01-11
+P1043,3,Female,Cardiac Arrhythmia,Observation,9441.24,7,3,Recovered,0,2025-01-11
+P1044,51,Male,Hypertension,Medication B,4587.47,5,0,Referred,0,2025-01-12
+P1045,7,Female,Asthma,Medication B,8827.89,4,1,Recovered,0,2025-01-12
+P1046,21,Female,Cardiac Arrhythmia,Medication C,3853.74,7,0,Recovered,0,2025-01-12
+P1047,73,Female,Asthma,Observation,8313.45,3,0,Improved,0,2025-01-12
+P1048,39,Female,Pneumonia,Physiotherapy,5477.01,3,2,Improved,0,2025-01-13
+P1049,18,Female,Asthma,Observation,4365.99,10,1,Recovered,0,2025-01-13
+P1050,4,Male,Asthma,Physiotherapy,7315.79,6,0,Improved,0,2025-01-13
+P1051,89,Male,Asthma,Observation,12568.9,5,3,Recovered,0,2025-01-13
+P1052,60,Male,Hypertension,Observation,10571.75,4,2,Referred,0,2025-01-14
+P1053,14,Female,Hypertension,Medication A,1226.6,9,1,Recovered,0,2025-01-14
+P1054,9,Female,Migraine,Medication B,9274.77,3,0,Recovered,0,2025-01-14
+P1055,90,Male,Asthma,Observation,24864.98,6,0,Recovered,1,2025-01-14
+P1056,53,Female,Hypertension,Medication C,3851.47,5,0,Recovered,0,2025-01-15
+P1057,2,Male,Cardiac Arrhythmia,Observation,10574.99,4,1,Improved,0,2025-01-15
+P1058,84,Male,Hypertension,Surgery,9654.2,6,0,Recovered,0,2025-01-15
+P1059,92,Male,Migraine,Medication B,17908.99,3,1,Recovered,0,2025-01-15
+P1060,60,Female,Diabetes,Surgery,11895.97,3,0,Stable,0,2025-01-16
+P1061,71,Female,Hypertension,Medication B,10457.35,4,4,Improved,0,2025-01-16
+P1062,44,Male,Hypertension,Surgery,5528.47,9,1,Recovered,0,2025-01-16
+P1063,8,Male,Cardiac Arrhythmia,Observation,10309.59,3,0,Recovered,1,2025-01-16
+P1064,47,Male,Migraine,Observation,10724.66,6,0,Recovered,0,2025-01-17
+P1065,35,Male,Diabetes,Medication A,6360.63,4,1,Recovered,0,2025-01-17
+P1066,78,Female,Fracture,Medication C,5606.44,5,1,Recovered,1,2025-01-17
+P1067,81,Female,Diabetes,Surgery,4229.15,5,3,Improved,0,2025-01-17
+P1068,36,Male,Fracture,Physiotherapy,3102.5,6,2,Readmitted,0,2025-01-18
+P1069,50,Male,Diabetes,Medication A,12283.05,2,1,Recovered,0,2025-01-18
+P1070,4,Female,Diabetes,Surgery,6053.28,3,2,Recovered,0,2025-01-18
+P1071,2,Female,Pneumonia,Surgery,5070.27,3,0,Recovered,0,2025-01-18
+P1072,6,Male,Anemia,Medication A,1894.24,2,2,Recovered,1,2025-01-19
+P1073,54,Male,Migraine,Observation,1702.47,4,3,Recovered,0,2025-01-19
+P1074,4,Male,Asthma,Surgery,14271.87,7,0,Readmitted,0,2025-01-19
+P1075,54,Female,Migraine,Observation,5713.94,3,2,Improved,1,2025-01-19
+P1076,93,Female,Diabetes,Medication A,8857.47,6,0,Referred,0,2025-01-20
+P1077,63,Female,Anemia,Observation,9296.81,7,0,Readmitted,0,2025-01-20
+P1078,18,Male,Cardiac Arrhythmia,Medication B,2373.62,6,1,Improved,0,2025-01-20
+P1079,90,Male,Pneumonia,Physiotherapy,18513.34,8,1,Improved,0,2025-01-20
+P1080,44,Female,Fracture,Surgery,3963.76,7,3,Recovered,0,2025-01-21
+P1081,34,Female,Pneumonia,Medication C,23128.04,2,3,Improved,1,2025-01-21
+P1082,74,Male,Asthma,Physiotherapy,9000.02,5,0,Readmitted,0,2025-01-21
+P1083,62,Female,Cardiac Arrhythmia,Observation,5398.8,5,0,Recovered,0,2025-01-21
+P1084,14,Female,Fracture,Surgery,3744.47,3,2,Readmitted,0,2025-01-22
+P1085,48,Male,Hypertension,Observation,12154.88,6,1,Recovered,0,2025-01-22
+P1086,15,Female,Anemia,Medication B,7317.33,8,0,Readmitted,0,2025-01-22
+P1087,72,Male,Pneumonia,Medication A,5679.53,6,1,Readmitted,0,2025-01-22
+P1088,78,Male,Diabetes,Surgery,1742.99,4,1,Improved,0,2025-01-23
+P1089,87,Male,Pneumonia,Medication B,5297.51,4,1,Improved,0,2025-01-23
+P1090,62,Male,Asthma,Medication B,8553.59,6,3,Improved,0,2025-01-23
+P1091,40,Male,Pneumonia,Surgery,9998.15,5,0,Stable,0,2025-01-23
+P1092,85,Male,Fracture,Observation,2541.98,5,0,Referred,0,2025-01-24
+P1093,80,Male,Diabetes,Medication C,1982.38,6,0,Stable,0,2025-01-24
+P1094,82,Female,Asthma,Medication B,1146.11,1,2,Improved,0,2025-01-24
+P1095,53,Male,Migraine,Physiotherapy,5794.78,3,0,Improved,0,2025-01-24
+P1096,24,Male,Hypertension,Medication B,4847.98,4,1,Stable,0,2025-01-25
+P1097,26,Female,Asthma,Medication C,12523.32,4,2,Improved,0,2025-01-25
+P1098,89,Female,Hypertension,Observation,12682.38,8,1,Stable,0,2025-01-25
+P1099,60,Female,Cardiac Arrhythmia,Observation,5086.77,6,3,Improved,0,2025-01-25
+P1100,41,Male,Asthma,Physiotherapy,3338.16,7,1,Recovered,0,2025-01-26
+P1101,29,Female,Asthma,Medication B,8122.37,6,1,Recovered,0,2025-01-26
+P1102,15,Male,Hypertension,Observation,5102.31,5,2,Recovered,0,2025-01-26
+P1103,45,Male,Pneumonia,Medication C,3515.39,2,1,Recovered,0,2025-01-26
+P1104,65,Male,Diabetes,Surgery,8297.7,4,4,Recovered,1,2025-01-27
+P1105,89,Male,Diabetes,Medication A,2418.92,5,1,Improved,0,2025-01-27
+P1106,71,Female,Diabetes,Medication A,10407.47,6,1,Recovered,0,2025-01-27
+P1107,9,Female,Diabetes,Medication A,5672.33,6,0,Recovered,0,2025-01-27
+P1108,88,Male,Cardiac Arrhythmia,Medication B,8128.66,7,0,Stable,0,2025-01-28
+P1109,1,Male,Asthma,Physiotherapy,976.85,8,0,Referred,0,2025-01-28
+P1110,8,Male,Fracture,Observation,17629.47,6,2,Stable,0,2025-01-28
+P1111,88,Female,Diabetes,Surgery,14569.19,4,1,Referred,0,2025-01-28
+P1112,63,Male,Migraine,Medication C,6356.97,4,1,Improved,0,2025-01-29
+P1113,11,Male,Pneumonia,Surgery,5991.35,5,3,Recovered,0,2025-01-29
+P1114,81,Female,Cardiac Arrhythmia,Medication C,12021.32,7,3,Improved,1,2025-01-29
+P1115,8,Female,Migraine,Medication B,8603.56,6,2,Stable,0,2025-01-29
+P1116,35,Male,Anemia,Medication A,13353.81,8,0,Recovered,0,2025-01-30
+P1117,35,Female,Hypertension,Medication B,2448.02,4,2,Recovered,0,2025-01-30
+P1118,33,Female,Hypertension,Physiotherapy,5728.03,7,1,Stable,0,2025-01-30
+P1119,5,Male,Migraine,Physiotherapy,13488.0,2,0,Recovered,0,2025-01-30
+P1120,41,Female,Pneumonia,Medication C,4687.56,5,0,Improved,0,2025-01-31
+P1121,28,Male,Diabetes,Observation,9848.77,7,0,Recovered,0,2025-01-31
+P1122,7,Female,Fracture,Observation,7482.31,6,1,Improved,0,2025-01-31
+P1123,73,Male,Fracture,Medication C,7667.71,4,0,Improved,0,2025-01-31
+P1124,72,Male,Fracture,Physiotherapy,11672.85,3,0,Recovered,1,2025-02-01
+P1125,12,Male,Fracture,Physiotherapy,8716.28,6,0,Recovered,0,2025-02-01
+P1126,34,Female,Fracture,Physiotherapy,8242.73,7,0,Improved,0,2025-02-01
+P1127,33,Male,Diabetes,Medication B,6922.19,3,1,Stable,0,2025-02-01
+P1128,48,Female,Hypertension,Physiotherapy,3089.98,8,2,Readmitted,0,2025-02-02
+P1129,23,Male,Asthma,Surgery,9442.46,11,1,Improved,0,2025-02-02
+P1130,62,Male,Migraine,Medication A,11599.88,9,0,Stable,0,2025-02-02
+P1131,88,Female,Hypertension,Physiotherapy,16798.06,6,0,Recovered,0,2025-02-02
+P1132,37,Male,Asthma,Medication C,5004.6,1,1,Recovered,0,2025-02-03
+P1133,44,Male,Pneumonia,Medication A,12958.54,3,1,Recovered,0,2025-02-03
+P1134,86,Female,Cardiac Arrhythmia,Medication B,18005.66,3,1,Improved,0,2025-02-03
+P1135,91,Male,Pneumonia,Medication C,16589.82,7,1,Recovered,1,2025-02-03
+P1136,35,Male,Migraine,Medication A,5433.02,5,0,Recovered,0,2025-02-04
+P1137,65,Male,Asthma,Medication C,5763.09,4,0,Improved,0,2025-02-04
+P1138,47,Male,Asthma,Medication B,13111.97,4,0,Stable,0,2025-02-04
+P1139,78,Female,Cardiac Arrhythmia,Surgery,11774.26,8,2,Recovered,1,2025-02-04
+P1140,3,Female,Asthma,Medication B,10011.79,2,3,Recovered,0,2025-02-05
+P1141,1,Male,Hypertension,Medication B,1377.05,6,2,Recovered,0,2025-02-05
+P1142,5,Female,Hypertension,Medication C,10228.66,2,1,Recovered,0,2025-02-05
+P1143,90,Male,Asthma,Observation,7511.5,5,0,Improved,0,2025-02-05
+P1144,14,Female,Diabetes,Physiotherapy,16758.98,3,2,Recovered,0,2025-02-06
+P1145,27,Male,Hypertension,Physiotherapy,6262.26,8,2,Improved,0,2025-02-06
+P1146,9,Male,Asthma,Surgery,10457.32,5,2,Readmitted,1,2025-02-06
+P1147,79,Male,Cardiac Arrhythmia,Surgery,3461.56,7,1,Recovered,0,2025-02-06
+P1148,15,Male,Hypertension,Physiotherapy,3459.2,7,0,Referred,0,2025-02-07
+P1149,90,Male,Pneumonia,Observation,10784.6,6,0,Recovered,0,2025-02-07
+P1150,42,Male,Pneumonia,Physiotherapy,2944.95,6,0,Recovered,0,2025-02-07
+P1151,77,Female,Diabetes,Observation,4816.67,6,0,Recovered,1,2025-02-07
+P1152,51,Male,Migraine,Surgery,5084.61,8,0,Recovered,0,2025-02-08
+P1153,63,Female,Cardiac Arrhythmia,Medication A,5958.62,5,1,Recovered,0,2025-02-08
+P1154,52,Male,Pneumonia,Medication C,12150.8,9,1,Recovered,0,2025-02-08
+P1155,4,Female,Asthma,Surgery,3337.8,3,2,Stable,0,2025-02-08
+P1156,94,Female,Anemia,Surgery,6587.89,8,3,Readmitted,0,2025-02-09
+P1157,23,Female,Fracture,Medication B,14153.62,1,2,Improved,0,2025-02-09
+P1158,15,Male,Pneumonia,Medication B,9514.43,3,0,Recovered,0,2025-02-09
+P1159,43,Male,Fracture,Medication B,4927.76,1,2,Improved,0,2025-02-09
+P1160,29,Female,Diabetes,Medication C,7069.56,5,0,Improved,0,2025-02-10
+P1161,36,Male,Hypertension,Medication B,6280.07,1,2,Stable,0,2025-02-10
+P1162,13,Female,Pneumonia,Observation,11241.41,5,1,Stable,0,2025-02-10
+P1163,32,Male,Cardiac Arrhythmia,Physiotherapy,10759.65,6,2,Readmitted,0,2025-02-10
+P1164,71,Female,Fracture,Medication A,2649.73,7,2,Recovered,0,2025-02-11
+P1165,59,Female,Diabetes,Surgery,6723.82,10,0,Improved,0,2025-02-11
+P1166,86,Male,Asthma,Observation,7853.37,6,1,Recovered,0,2025-02-11
+P1167,28,Female,Hypertension,Medication A,9338.28,6,0,Referred,0,2025-02-11
+P1168,66,Male,Cardiac Arrhythmia,Observation,12548.04,4,1,Recovered,0,2025-02-12
+P1169,42,Female,Asthma,Observation,15648.03,2,1,Recovered,0,2025-02-12
+P1170,45,Female,Asthma,Surgery,8049.2,6,2,Recovered,0,2025-02-12
+P1171,62,Male,Asthma,Physiotherapy,5625.36,7,1,Stable,0,2025-02-12
+P1172,57,Male,Cardiac Arrhythmia,Medication B,3799.74,4,3,Recovered,0,2025-02-13
+P1173,6,Male,Cardiac Arrhythmia,Medication C,2067.2,6,1,Recovered,0,2025-02-13
+P1174,28,Female,Fracture,Physiotherapy,7398.75,7,1,Referred,0,2025-02-13
+P1175,28,Male,Diabetes,Medication C,4974.71,4,1,Readmitted,1,2025-02-13
+P1176,44,Female,Asthma,Surgery,8883.15,6,1,Recovered,0,2025-02-14
+P1177,84,Female,Asthma,Surgery,9265.24,7,1,Recovered,0,2025-02-14
+P1178,30,Male,Pneumonia,Surgery,4478.59,3,0,Stable,0,2025-02-14
+P1179,62,Male,Asthma,Medication A,4415.41,4,3,Readmitted,0,2025-02-14
+P1180,75,Female,Fracture,Medication C,13700.24,4,0,Improved,0,2025-02-15
+P1181,92,Female,Anemia,Physiotherapy,7743.82,4,2,Improved,0,2025-02-15
+P1182,89,Male,Hypertension,Physiotherapy,24001.14,27,5,Recovered,0,2025-02-15
+P1183,62,Male,Hypertension,Observation,7675.36,5,0,Stable,0,2025-02-15
+P1184,1,Male,Cardiac Arrhythmia,Observation,26064.65,5,2,Improved,0,2025-02-16
+P1185,27,Male,Hypertension,Observation,10246.87,5,1,Improved,0,2025-02-16
+P1186,62,Male,Asthma,Surgery,9180.25,5,1,Recovered,0,2025-02-16
+P1187,77,Female,Migraine,Physiotherapy,4324.27,7,0,Readmitted,0,2025-02-16
+P1188,3,Female,Diabetes,Medication C,1389.48,4,2,Improved,0,2025-02-17
+P1189,70,Female,Diabetes,Surgery,13785.0,4,2,Recovered,0,2025-02-17
+P1190,72,Female,Hypertension,Medication A,9076.55,5,0,Improved,0,2025-02-17
+P1191,27,Male,Pneumonia,Observation,10782.54,7,1,Improved,0,2025-02-17
+P1192,9,Male,Asthma,Surgery,12240.62,5,1,Improved,0,2025-02-18
+P1193,62,Male,Diabetes,Surgery,6361.98,12,1,Stable,0,2025-02-18
+P1194,37,Female,Migraine,Medication A,3329.53,4,1,Improved,0,2025-02-18
+P1195,51,Female,Fracture,Medication B,11348.31,7,0,Readmitted,0,2025-02-18
+P1196,44,Male,Diabetes,Physiotherapy,3188.9,8,1,Recovered,0,2025-02-19
+P1197,24,Male,Pneumonia,Medication C,9202.73,3,1,Recovered,0,2025-02-19
+P1198,79,Female,Fracture,Medication B,4589.04,7,1,Recovered,0,2025-02-19
+P1199,59,Female,Hypertension,Observation,13332.9,4,1,Improved,0,2025-02-19
+P1200,32,Male,Diabetes,Surgery,9686.16,3,0,Improved,0,2025-02-20
+P1201,88,Male,Diabetes,Medication A,5101.24,7,2,Readmitted,0,2025-02-20
+P1202,52,Female,Diabetes,Medication A,3454.56,10,1,Stable,0,2025-02-20
+P1203,62,Male,Fracture,Physiotherapy,7806.89,4,1,Improved,1,2025-02-20
+P1204,58,Male,Migraine,Medication B,12616.88,5,2,Referred,0,2025-02-21
+P1205,52,Male,Diabetes,Physiotherapy,12943.04,8,0,Recovered,0,2025-02-21
+P1206,12,Female,Hypertension,Surgery,13980.89,7,2,Stable,0,2025-02-21
+P1207,39,Female,Diabetes,Physiotherapy,9047.04,3,0,Recovered,0,2025-02-21
+P1208,2,Female,Diabetes,Medication C,16419.36,8,1,Improved,0,2025-02-22
+P1209,3,Female,Fracture,Medication A,9272.23,4,2,Stable,0,2025-02-22
+P1210,56,Female,Hypertension,Medication A,4498.16,4,2,Improved,0,2025-02-22
+P1211,81,Female,Hypertension,Observation,5327.66,2,2,Recovered,0,2025-02-22
+P1212,59,Female,Hypertension,Observation,14688.74,5,1,Recovered,0,2025-02-23
+P1213,2,Male,Asthma,Surgery,4489.51,7,2,Improved,0,2025-02-23
+P1214,2,Male,Hypertension,Medication C,4073.2,6,3,Stable,0,2025-02-23
+P1215,92,Male,Pneumonia,Medication B,17717.57,4,1,Recovered,0,2025-02-23
+P1216,54,Male,Hypertension,Physiotherapy,9185.51,7,2,Readmitted,0,2025-02-24
+P1217,87,Male,Fracture,Surgery,9215.04,4,1,Recovered,0,2025-02-24
+P1218,1,Male,Asthma,Observation,12773.83,4,4,Improved,0,2025-02-24
+P1219,19,Male,Diabetes,Physiotherapy,12579.46,4,0,Stable,0,2025-02-24
+P1220,2,Female,Cardiac Arrhythmia,Observation,7491.57,3,1,Improved,0,2025-02-25
+P1221,53,Female,Migraine,Physiotherapy,15603.98,8,0,Referred,0,2025-02-25
+P1222,44,Male,Migraine,Medication B,18366.15,4,0,Improved,0,2025-02-25
+P1223,90,Male,Cardiac Arrhythmia,Surgery,19831.260000000002,33,3,Improved,0,2025-02-25
+P1224,32,Female,Cardiac Arrhythmia,Physiotherapy,10089.09,4,0,Recovered,0,2025-02-26
+P1225,70,Male,Migraine,Medication C,4433.35,6,3,Recovered,0,2025-02-26
+P1226,32,Male,Asthma,Medication A,6129.39,2,0,Recovered,0,2025-02-26
+P1227,68,Female,Diabetes,Medication C,3497.6,6,0,Stable,1,2025-02-26
+P1228,55,Male,Migraine,Medication C,20383.21,4,3,Recovered,0,2025-02-27
+P1229,75,Female,Hypertension,Medication A,8403.92,3,2,Recovered,0,2025-02-27
+P1230,56,Male,Asthma,Medication C,6862.31,4,2,Recovered,1,2025-02-27
+P1231,17,Female,Diabetes,Physiotherapy,8555.28,10,5,Recovered,0,2025-02-27
+P1232,38,Female,Diabetes,Physiotherapy,6591.08,4,1,Recovered,0,2025-02-28
+P1233,24,Female,Hypertension,Physiotherapy,8325.66,4,1,Readmitted,0,2025-02-28
+P1234,69,Male,Fracture,Medication A,10443.01,2,0,Stable,0,2025-02-28
+P1235,70,Female,Hypertension,Medication C,4626.47,4,0,Stable,0,2025-02-28
+P1236,86,Male,Hypertension,Medication A,11028.11,7,0,Stable,0,2025-03-01
+P1237,11,Male,Hypertension,Physiotherapy,5816.69,3,4,Recovered,0,2025-03-01
+P1238,16,Male,Asthma,Medication C,9902.87,6,2,Readmitted,0,2025-03-01
+P1239,73,Male,Anemia,Medication C,5485.22,6,0,Recovered,0,2025-03-01
+P1240,59,Female,Cardiac Arrhythmia,Observation,12416.52,4,2,Recovered,0,2025-03-02
+P1241,70,Female,Asthma,Observation,13146.98,6,1,Improved,0,2025-03-02
+P1242,80,Male,Migraine,Medication B,7693.94,6,0,Recovered,0,2025-03-02
+P1243,93,Male,Asthma,Surgery,25078.55,4,1,Stable,0,2025-03-02
+P1244,3,Female,Diabetes,Observation,9582.4,4,2,Recovered,0,2025-03-03
+P1245,20,Male,Hypertension,Medication A,2973.36,8,2,Stable,0,2025-03-03
+P1246,59,Female,Hypertension,Observation,12058.11,4,4,Improved,0,2025-03-03
+P1247,36,Male,Hypertension,Medication B,19336.0,4,2,Recovered,0,2025-03-03
+P1248,19,Male,Cardiac Arrhythmia,Medication C,5468.73,5,0,Stable,0,2025-03-04
+P1249,90,Female,Fracture,Medication B,3169.46,3,1,Recovered,0,2025-03-04
+P1250,67,Male,Hypertension,Medication C,11903.35,4,0,Improved,0,2025-03-04
+P1251,19,Female,Cardiac Arrhythmia,Medication C,7506.71,3,2,Recovered,0,2025-03-04
+P1252,20,Male,Asthma,Surgery,8499.48,6,3,Improved,0,2025-03-05
+P1253,71,Male,Hypertension,Observation,8736.58,5,4,Improved,0,2025-03-05
+P1254,52,Male,Fracture,Medication A,5934.09,4,0,Recovered,0,2025-03-05
+P1255,33,Female,Asthma,Medication A,6421.49,8,1,Referred,0,2025-03-05
+P1256,40,Male,Hypertension,Physiotherapy,6536.74,5,2,Readmitted,0,2025-03-06
+P1257,39,Male,Pneumonia,Medication C,7910.6,4,1,Stable,0,2025-03-06
+P1258,82,Male,Asthma,Medication A,13175.07,6,1,Stable,0,2025-03-06
+P1259,1,Male,Asthma,Surgery,5063.83,2,1,Recovered,0,2025-03-06
+P1260,11,Female,Cardiac Arrhythmia,Medication C,15136.28,6,0,Improved,0,2025-03-07
+P1261,92,Female,Cardiac Arrhythmia,Surgery,6884.02,8,3,Recovered,0,2025-03-07
+P1262,57,Male,Fracture,Medication A,14347.29,3,1,Recovered,0,2025-03-07
+P1263,89,Female,Diabetes,Medication A,22667.43,5,0,Referred,1,2025-03-07
+P1264,50,Male,Hypertension,Physiotherapy,7201.23,3,1,Improved,0,2025-03-08
+P1265,23,Male,Diabetes,Medication A,8555.98,4,1,Recovered,0,2025-03-08
+P1266,31,Male,Fracture,Medication C,3840.3,8,2,Recovered,1,2025-03-08
+P1267,94,Female,Hypertension,Medication C,8695.73,2,1,Improved,0,2025-03-08
+P1268,42,Female,Migraine,Medication C,10632.96,4,1,Recovered,0,2025-03-09
+P1269,7,Female,Asthma,Physiotherapy,11040.89,3,2,Recovered,1,2025-03-09
+P1270,16,Female,Fracture,Physiotherapy,4557.71,3,0,Recovered,0,2025-03-09
+P1271,90,Female,Anemia,Medication A,11380.94,3,1,Improved,0,2025-03-09
+P1272,60,Female,Fracture,Medication B,5378.25,2,2,Improved,1,2025-03-10
+P1273,2,Female,Migraine,Medication B,18931.02,2,4,Recovered,0,2025-03-10
+P1274,1,Female,Cardiac Arrhythmia,Physiotherapy,9978.13,4,0,Stable,0,2025-03-10
+P1275,48,Female,Asthma,Medication A,8173.43,8,2,Recovered,0,2025-03-10
+P1276,12,Male,Hypertension,Medication B,17319.35,6,2,Improved,0,2025-03-11
+P1277,69,Female,Diabetes,Medication A,9072.55,3,1,Referred,0,2025-03-11
+P1278,37,Female,Asthma,Medication A,11016.26,7,1,Improved,0,2025-03-11
+P1279,32,Female,Asthma,Medication A,6051.74,3,1,Readmitted,1,2025-03-11
+P1280,9,Female,Hypertension,Observation,3659.45,5,2,Readmitted,1,2025-03-12
+P1281,19,Female,Asthma,Medication C,11626.72,3,1,Improved,0,2025-03-12
+P1282,48,Female,Migraine,Medication A,18960.0,4,0,Stable,0,2025-03-12
+P1283,80,Female,Asthma,Observation,6788.66,3,1,Readmitted,0,2025-03-12
+P1284,3,Female,Pneumonia,Physiotherapy,6607.82,3,1,Recovered,1,2025-03-13
+P1285,20,Female,Fracture,Medication B,4634.85,8,1,Recovered,0,2025-03-13
+P1286,24,Female,Anemia,Medication C,1439.65,5,1,Readmitted,0,2025-03-13
+P1287,54,Female,Asthma,Medication B,7822.36,3,3,Stable,0,2025-03-13
+P1288,33,Male,Fracture,Medication C,12563.8,4,0,Recovered,0,2025-03-14
+P1289,24,Male,Anemia,Medication B,12653.47,6,0,Recovered,0,2025-03-14
+P1290,75,Female,Migraine,Medication C,4114.09,4,0,Stable,0,2025-03-14
+P1291,72,Female,Diabetes,Medication B,10468.81,3,1,Improved,0,2025-03-14
+P1292,36,Male,Cardiac Arrhythmia,Medication B,18527.4,5,0,Improved,0,2025-03-15
+P1293,38,Female,Hypertension,Medication B,10008.99,1,0,Stable,0,2025-03-15
+P1294,84,Male,Diabetes,Medication B,6755.54,3,0,Improved,0,2025-03-15
+P1295,89,Male,Asthma,Physiotherapy,5048.4,6,0,Improved,0,2025-03-15
+P1296,25,Male,Pneumonia,Medication A,5719.62,3,0,Stable,0,2025-03-16
+P1297,93,Male,Fracture,Surgery,15494.63,4,1,Stable,0,2025-03-16
+P1298,18,Male,Diabetes,Observation,7393.21,4,0,Improved,0,2025-03-16
+P1299,82,Female,Migraine,Surgery,4426.22,11,1,Recovered,0,2025-03-16
+P1300,66,Male,Asthma,Surgery,6803.48,4,0,Recovered,0,2025-03-17
+P1301,54,Female,Pneumonia,Medication C,4932.11,5,0,Referred,0,2025-03-17
+P1302,35,Female,Migraine,Medication A,14322.7,9,2,Recovered,0,2025-03-17
+P1303,80,Male,Asthma,Medication C,2963.62,6,0,Recovered,0,2025-03-17
+P1304,61,Male,Hypertension,Medication A,666.25,4,1,Improved,0,2025-03-18
+P1305,41,Female,Fracture,Medication A,14422.03,5,0,Stable,0,2025-03-18
+P1306,33,Male,Hypertension,Medication B,2519.99,6,3,Recovered,0,2025-03-18
+P1307,68,Male,Diabetes,Physiotherapy,16190.56,6,0,Recovered,0,2025-03-18
+P1308,33,Female,Fracture,Medication B,28051.46,4,0,Recovered,0,2025-03-19
+P1309,14,Female,Hypertension,Physiotherapy,8929.4,10,1,Stable,0,2025-03-19
+P1310,21,Male,Fracture,Medication C,12473.74,4,3,Recovered,0,2025-03-19
+P1311,48,Female,Hypertension,Physiotherapy,11115.8,5,1,Recovered,0,2025-03-19
+P1312,20,Male,Migraine,Medication C,9784.59,6,1,Recovered,1,2025-03-20
+P1313,8,Male,Hypertension,Surgery,5625.87,7,0,Readmitted,0,2025-03-20
+P1314,7,Male,Anemia,Surgery,3856.52,6,0,Recovered,0,2025-03-20
+P1315,67,Female,Fracture,Physiotherapy,7800.74,7,1,Recovered,0,2025-03-20
+P1316,17,Female,Diabetes,Physiotherapy,4476.81,5,2,Improved,0,2025-03-21
+P1317,33,Female,Asthma,Medication C,9916.44,7,1,Referred,0,2025-03-21
+P1318,48,Female,Anemia,Medication B,5697.73,2,4,Improved,0,2025-03-21
+P1319,76,Female,Cardiac Arrhythmia,Medication C,3286.32,7,0,Referred,0,2025-03-21
+P1320,59,Male,Diabetes,Medication B,10611.73,5,2,Stable,0,2025-03-22
+P1321,86,Male,Cardiac Arrhythmia,Surgery,41407.44,37,0,Recovered,0,2025-03-22
+P1322,22,Male,Asthma,Medication A,3098.55,9,1,Improved,0,2025-03-22
+P1323,30,Male,Pneumonia,Physiotherapy,14566.22,5,1,Recovered,0,2025-03-22
+P1324,38,Female,Pneumonia,Medication B,8346.74,2,0,Improved,0,2025-03-23
+P1325,51,Male,Cardiac Arrhythmia,Medication C,14267.62,3,0,Recovered,0,2025-03-23
+P1326,54,Female,Hypertension,Surgery,9253.89,5,3,Recovered,0,2025-03-23
+P1327,8,Male,Asthma,Medication B,5955.1,6,0,Readmitted,0,2025-03-23
+P1328,27,Female,Cardiac Arrhythmia,Medication C,4740.94,4,2,Recovered,0,2025-03-24
+P1329,27,Female,Diabetes,Physiotherapy,11367.49,3,1,Readmitted,0,2025-03-24
+P1330,21,Male,Migraine,Physiotherapy,18526.56,5,0,Recovered,0,2025-03-24
+P1331,30,Male,Pneumonia,Observation,10788.49,4,0,Recovered,0,2025-03-24
+P1332,28,Male,Pneumonia,Medication A,5835.19,3,1,Readmitted,0,2025-03-25
+P1333,64,Male,Fracture,Observation,9546.7,5,3,Improved,0,2025-03-25
+P1334,69,Female,Asthma,Surgery,4276.24,4,0,Stable,1,2025-03-25
+P1335,61,Male,Fracture,Medication B,10730.73,6,0,Recovered,0,2025-03-25
+P1336,48,Male,Cardiac Arrhythmia,Surgery,13049.2,6,0,Improved,1,2025-03-26
+P1337,19,Female,Diabetes,Medication C,6287.04,4,3,Stable,0,2025-03-26
+P1338,4,Male,Cardiac Arrhythmia,Physiotherapy,17478.99,7,1,Improved,0,2025-03-26
+P1339,35,Male,Cardiac Arrhythmia,Observation,5730.35,2,0,Improved,0,2025-03-26
+P1340,64,Male,Pneumonia,Observation,9463.7,7,2,Referred,0,2025-03-27
+P1341,49,Male,Diabetes,Observation,12243.05,5,2,Improved,0,2025-03-27
+P1342,17,Male,Diabetes,Surgery,6281.85,2,1,Readmitted,0,2025-03-27
+P1343,44,Female,Hypertension,Physiotherapy,3617.8,6,0,Stable,0,2025-03-27
+P1344,92,Male,Hypertension,Medication B,4184.24,4,2,Stable,0,2025-03-28
+P1345,30,Male,Pneumonia,Medication C,6602.87,2,2,Recovered,0,2025-03-28
+P1346,93,Male,Hypertension,Medication B,6288.85,4,1,Recovered,0,2025-03-28
+P1347,46,Male,Asthma,Surgery,7919.93,4,1,Readmitted,0,2025-03-28
+P1348,6,Male,Cardiac Arrhythmia,Medication C,10953.01,1,1,Recovered,0,2025-03-29
+P1349,37,Female,Asthma,Observation,13164.29,2,1,Recovered,0,2025-03-29
+P1350,24,Male,Fracture,Medication A,13989.86,8,1,Recovered,0,2025-03-29
+P1351,93,Female,Cardiac Arrhythmia,Surgery,22899.2,1,0,Recovered,0,2025-03-29
+P1352,46,Female,Fracture,Surgery,4767.1,4,3,Readmitted,0,2025-03-30
+P1353,53,Male,Cardiac Arrhythmia,Physiotherapy,23240.95,6,2,Readmitted,1,2025-03-30
+P1354,60,Male,Hypertension,Medication B,7427.0,2,0,Improved,1,2025-03-30
+P1355,63,Male,Anemia,Surgery,6976.07,2,3,Recovered,0,2025-03-30
+P1356,85,Male,Diabetes,Surgery,12793.7,5,1,Stable,0,2025-03-31
+P1357,32,Female,Diabetes,Observation,5585.8,9,2,Improved,0,2025-03-31
+P1358,87,Male,Fracture,Observation,11660.82,8,1,Referred,0,2025-03-31
+P1359,33,Male,Diabetes,Medication C,18060.84,5,2,Improved,0,2025-03-31
+P1360,67,Male,Fracture,Medication A,6374.99,4,1,Recovered,0,2025-04-01
+P1361,18,Male,Cardiac Arrhythmia,Physiotherapy,12556.82,6,0,Improved,1,2025-04-01
+P1362,25,Male,Migraine,Medication A,11063.86,6,2,Referred,0,2025-04-01
+P1363,54,Male,Pneumonia,Medication C,24890.37,3,0,Improved,0,2025-04-01
+P1364,58,Female,Asthma,Observation,2385.61,4,1,Improved,0,2025-04-02
+P1365,67,Female,Migraine,Medication B,5808.38,7,1,Recovered,0,2025-04-02
+P1366,46,Male,Hypertension,Observation,3371.73,8,3,Stable,0,2025-04-02
+P1367,24,Male,Anemia,Physiotherapy,12502.03,5,0,Stable,0,2025-04-02
+P1368,32,Male,Diabetes,Observation,8922.97,3,0,Recovered,0,2025-04-03
+P1369,47,Female,Cardiac Arrhythmia,Physiotherapy,19634.1,8,2,Improved,0,2025-04-03
+P1370,86,Male,Hypertension,Physiotherapy,3670.72,4,2,Recovered,0,2025-04-03
+P1371,23,Female,Asthma,Physiotherapy,44840.46,30,0,Recovered,0,2025-04-03
+P1372,66,Male,Diabetes,Medication C,103602.95999999999,32,0,Recovered,0,2025-04-04
+P1373,27,Male,Fracture,Physiotherapy,6742.17,4,0,Recovered,1,2025-04-04
+P1374,2,Male,Fracture,Physiotherapy,6351.29,2,2,Improved,0,2025-04-04
+P1375,90,Male,Anemia,Medication B,5781.74,4,3,Recovered,0,2025-04-04
+P1376,17,Female,Diabetes,Medication A,4364.39,5,0,Recovered,0,2025-04-05
+P1377,33,Female,Asthma,Surgery,4251.29,4,2,Readmitted,0,2025-04-05
+P1378,9,Male,Cardiac Arrhythmia,Medication A,5317.35,4,1,Improved,0,2025-04-05
+P1379,43,Male,Hypertension,Physiotherapy,2558.54,5,4,Improved,0,2025-04-05
+P1380,48,Female,Hypertension,Medication B,8531.52,3,1,Recovered,0,2025-04-06
+P1381,39,Female,Cardiac Arrhythmia,Observation,5913.11,3,2,Improved,0,2025-04-06
+P1382,93,Female,Pneumonia,Medication B,937.29,4,2,Recovered,0,2025-04-06
+P1383,42,Female,Asthma,Physiotherapy,2594.19,4,2,Stable,0,2025-04-06
+P1384,26,Male,Cardiac Arrhythmia,Medication B,919.07,6,2,Recovered,0,2025-04-07
+P1385,50,Female,Diabetes,Medication B,2791.69,3,1,Improved,0,2025-04-07
+P1386,25,Male,Diabetes,Physiotherapy,15127.24,5,1,Recovered,1,2025-04-07
+P1387,24,Female,Diabetes,Medication C,8608.15,4,1,Stable,0,2025-04-07
+P1388,13,Female,Anemia,Medication B,5851.59,5,4,Improved,0,2025-04-08
+P1389,60,Female,Diabetes,Surgery,12431.93,6,0,Improved,0,2025-04-08
+P1390,7,Female,Diabetes,Surgery,5822.27,7,0,Recovered,1,2025-04-08
+P1391,57,Female,Hypertension,Medication B,3059.75,2,2,Improved,0,2025-04-08
+P1392,36,Male,Fracture,Medication C,5478.76,4,1,Referred,0,2025-04-09
+P1393,45,Male,Anemia,Observation,12953.48,2,0,Stable,0,2025-04-09
+P1394,20,Female,Fracture,Physiotherapy,8995.82,2,4,Recovered,1,2025-04-09
+P1395,65,Female,Pneumonia,Surgery,13913.54,3,1,Recovered,0,2025-04-09
+P1396,8,Male,Asthma,Observation,7690.21,4,0,Readmitted,0,2025-04-10
+P1397,16,Female,Diabetes,Medication B,5442.68,6,3,Improved,0,2025-04-10
+P1398,14,Female,Anemia,Observation,17666.18,5,0,Improved,0,2025-04-10
+P1399,76,Male,Fracture,Medication A,5003.8,2,1,Readmitted,0,2025-04-10
+P1400,87,Female,Asthma,Surgery,12871.11,6,1,Readmitted,0,2025-04-11
+P1401,15,Female,Fracture,Medication B,3541.07,3,0,Improved,0,2025-04-11
+P1402,92,Male,Pneumonia,Physiotherapy,12665.12,3,2,Recovered,0,2025-04-11
+P1403,66,Male,Asthma,Medication C,10918.64,8,0,Recovered,0,2025-04-11
+P1404,32,Male,Anemia,Medication B,12717.94,3,1,Stable,0,2025-04-12
+P1405,87,Female,Migraine,Physiotherapy,3429.69,5,2,Recovered,0,2025-04-12
+P1406,63,Male,Asthma,Medication C,8985.34,9,1,Recovered,0,2025-04-12
+P1407,86,Male,Pneumonia,Medication C,4622.42,3,1,Recovered,1,2025-04-12
+P1408,51,Male,Diabetes,Medication B,2281.26,4,1,Recovered,0,2025-04-13
+P1409,25,Male,Pneumonia,Observation,4363.77,2,2,Improved,0,2025-04-13
+P1410,58,Male,Diabetes,Observation,16446.07,1,1,Improved,0,2025-04-13
+P1411,63,Male,Asthma,Medication C,16420.62,4,1,Improved,0,2025-04-13
+P1412,62,Female,Anemia,Observation,3611.71,8,0,Recovered,0,2025-04-14
+P1413,22,Female,Asthma,Medication A,8033.37,7,1,Readmitted,0,2025-04-14
+P1414,58,Male,Cardiac Arrhythmia,Medication C,10422.78,2,5,Recovered,0,2025-04-14
+P1415,58,Male,Hypertension,Medication C,3805.0,7,1,Stable,0,2025-04-14
+P1416,86,Male,Diabetes,Physiotherapy,11061.5,9,1,Readmitted,0,2025-04-15
+P1417,49,Female,Pneumonia,Observation,13389.48,4,2,Recovered,1,2025-04-15
+P1418,52,Female,Diabetes,Medication C,7122.39,3,1,Improved,0,2025-04-15
+P1419,42,Female,Diabetes,Medication A,4794.2,6,2,Readmitted,1,2025-04-15
+P1420,70,Female,Cardiac Arrhythmia,Physiotherapy,7174.59,6,0,Recovered,1,2025-04-16
+P1421,15,Female,Fracture,Medication B,2707.37,4,0,Improved,0,2025-04-16
+P1422,54,Female,Pneumonia,Medication C,14310.33,2,0,Improved,0,2025-04-16
+P1423,60,Female,Diabetes,Medication A,6466.83,3,2,Recovered,0,2025-04-16
+P1424,8,Female,Cardiac Arrhythmia,Surgery,14822.18,6,3,Stable,0,2025-04-17
+P1425,53,Female,Asthma,Medication A,8661.45,7,1,Readmitted,0,2025-04-17
+P1426,60,Male,Asthma,Medication A,4257.4,5,0,Stable,1,2025-04-17
+P1427,5,Male,Pneumonia,Physiotherapy,1404.08,3,0,Recovered,0,2025-04-17
+P1428,68,Male,Hypertension,Medication B,7622.65,5,3,Recovered,0,2025-04-18
+P1429,6,Male,Asthma,Surgery,6423.5,9,1,Improved,0,2025-04-18
+P1430,94,Female,Cardiac Arrhythmia,Observation,10406.12,4,0,Recovered,0,2025-04-18
+P1431,47,Female,Migraine,Observation,3941.72,6,4,Improved,0,2025-04-18
+P1432,55,Male,Asthma,Medication A,7266.89,5,0,Improved,0,2025-04-19
+P1433,40,Female,Cardiac Arrhythmia,Physiotherapy,10300.19,8,1,Improved,0,2025-04-19
+P1434,52,Male,Cardiac Arrhythmia,Physiotherapy,10334.16,3,2,Improved,0,2025-04-19
+P1435,16,Female,Asthma,Observation,16415.67,6,0,Recovered,0,2025-04-19
+P1436,13,Male,Fracture,Surgery,15604.94,7,0,Recovered,0,2025-04-20
+P1437,30,Female,Asthma,Medication B,8557.08,1,1,Recovered,0,2025-04-20
+P1438,19,Female,Pneumonia,Surgery,8137.72,5,2,Improved,0,2025-04-20
+P1439,17,Male,Pneumonia,Medication C,10228.55,4,0,Improved,0,2025-04-20
+P1440,63,Female,Asthma,Medication C,2089.81,7,0,Stable,0,2025-04-21
+P1441,19,Male,Cardiac Arrhythmia,Medication B,2789.18,10,1,Stable,0,2025-04-21
+P1442,92,Male,Migraine,Observation,3741.99,2,1,Referred,0,2025-04-21
+P1443,58,Male,Cardiac Arrhythmia,Medication B,7824.95,4,2,Recovered,0,2025-04-21
+P1444,55,Male,Cardiac Arrhythmia,Physiotherapy,5892.22,4,1,Recovered,0,2025-04-22
+P1445,90,Female,Anemia,Medication C,4476.38,4,0,Recovered,0,2025-04-22
+P1446,90,Female,Diabetes,Medication A,8474.49,3,3,Stable,0,2025-04-22
+P1447,62,Female,Diabetes,Medication A,29072.84,11,3,Recovered,0,2025-04-22
+P1448,23,Male,Hypertension,Observation,2014.05,6,3,Stable,1,2025-04-23
+P1449,9,Female,Migraine,Physiotherapy,6059.65,4,1,Improved,0,2025-04-23
+P1450,12,Male,Diabetes,Surgery,14109.03,8,1,Readmitted,0,2025-04-23
+P1451,1,Female,Diabetes,Physiotherapy,8150.33,8,2,Readmitted,0,2025-04-23
+P1452,58,Female,Diabetes,Medication A,3113.77,10,0,Recovered,0,2025-04-24
+P1453,1,Female,Diabetes,Medication A,8866.42,8,0,Improved,1,2025-04-24
+P1454,34,Male,Diabetes,Medication C,15898.03,9,1,Improved,0,2025-04-24
+P1455,48,Female,Cardiac Arrhythmia,Physiotherapy,5705.92,5,0,Recovered,1,2025-04-24
+P1456,89,Female,Asthma,Physiotherapy,11098.29,3,0,Recovered,0,2025-04-25
+P1457,1,Male,Hypertension,Medication A,3884.27,5,1,Improved,0,2025-04-25
+P1458,16,Female,Hypertension,Surgery,3440.77,4,1,Recovered,0,2025-04-25
+P1459,61,Male,Diabetes,Observation,5059.48,5,1,Improved,0,2025-04-25
+P1460,64,Female,Hypertension,Observation,10442.31,4,1,Improved,0,2025-04-26
+P1461,63,Male,Asthma,Physiotherapy,19238.17,5,4,Recovered,0,2025-04-26
+P1462,69,Male,Pneumonia,Observation,18350.56,7,2,Improved,0,2025-04-26
+P1463,22,Female,Diabetes,Medication A,5115.04,1,2,Recovered,0,2025-04-26
+P1464,93,Male,Cardiac Arrhythmia,Medication A,50258.81999999999,29,0,Stable,1,2025-04-27
+P1465,67,Male,Hypertension,Physiotherapy,8092.36,5,0,Recovered,0,2025-04-27
+P1466,76,Male,Migraine,Physiotherapy,11648.87,6,1,Readmitted,0,2025-04-27
+P1467,26,Male,Pneumonia,Medication C,1790.07,6,0,Recovered,0,2025-04-27
+P1468,16,Male,Asthma,Physiotherapy,7621.0,8,0,Recovered,0,2025-04-28
+P1469,51,Male,Hypertension,Surgery,1996.0,3,2,Recovered,0,2025-04-28
+P1470,86,Female,Migraine,Observation,21729.96,3,0,Recovered,0,2025-04-28
+P1471,57,Male,Diabetes,Physiotherapy,16704.76,6,0,Recovered,0,2025-04-28
+P1472,29,Male,Diabetes,Medication B,4578.77,3,2,Improved,0,2025-04-29
+P1473,78,Female,Hypertension,Medication C,23431.68,4,0,Improved,0,2025-04-29
+P1474,92,Female,Diabetes,Medication B,3532.25,9,2,Recovered,0,2025-04-29
+P1475,69,Female,Anemia,Medication A,8825.72,3,0,Recovered,0,2025-04-29
+P1476,47,Female,Fracture,Observation,7962.19,4,2,Stable,0,2025-04-30
+P1477,94,Female,Hypertension,Physiotherapy,2953.26,10,2,Improved,0,2025-04-30
+P1478,62,Female,Asthma,Medication B,13706.48,3,2,Recovered,0,2025-04-30
+P1479,69,Female,Anemia,Observation,13169.12,5,1,Stable,0,2025-04-30
+P1480,76,Male,Migraine,Medication A,12522.12,4,1,Recovered,0,2025-05-01
+P1481,16,Male,Asthma,Surgery,8393.29,7,2,Stable,0,2025-05-01
+P1482,90,Female,Migraine,Medication C,14539.68,4,2,Recovered,0,2025-05-01
+P1483,90,Male,Anemia,Observation,5681.02,8,2,Recovered,0,2025-05-01
+P1484,48,Male,Pneumonia,Observation,14067.45,4,1,Readmitted,0,2025-05-02
+P1485,85,Male,Diabetes,Surgery,7409.04,4,0,Recovered,0,2025-05-02
+P1486,39,Female,Cardiac Arrhythmia,Observation,6377.64,6,2,Stable,0,2025-05-02
+P1487,33,Female,Fracture,Medication A,10511.23,3,1,Recovered,1,2025-05-02
+P1488,94,Male,Hypertension,Medication A,10624.69,3,2,Improved,0,2025-05-03
+P1489,23,Female,Fracture,Surgery,6958.55,4,0,Readmitted,0,2025-05-03
+P1490,10,Male,Diabetes,Medication C,4441.65,8,3,Recovered,0,2025-05-03
+P1491,69,Male,Diabetes,Physiotherapy,10532.38,3,1,Stable,0,2025-05-03
+P1492,34,Male,Hypertension,Medication B,1917.52,7,2,Improved,0,2025-05-04
+P1493,52,Male,Diabetes,Physiotherapy,4980.31,3,1,Improved,1,2025-05-04
+P1494,10,Female,Anemia,Observation,9762.43,3,2,Improved,0,2025-05-04
+P1495,19,Female,Fracture,Medication B,3539.46,4,1,Readmitted,0,2025-05-04
+P1496,58,Female,Fracture,Surgery,7655.07,7,1,Recovered,0,2025-05-05
+P1497,1,Male,Asthma,Surgery,10276.57,7,1,Recovered,0,2025-05-05
+P1498,69,Female,Hypertension,Medication C,6451.32,6,2,Readmitted,1,2025-05-05
+P1499,4,Male,Asthma,Medication B,5914.23,5,2,Stable,0,2025-05-05

@@ -1,0 +1,9 @@
+flask
+requests
+python-dotenv
+pandas
+numpy
+chromadb
+reportlab
+python-docx
+langflow<2.0
